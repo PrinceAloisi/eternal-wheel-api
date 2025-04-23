@@ -1,0 +1,1008 @@
+{
+    "id": "fa71496e-c16b-4e70-8666-d75c0d57cf37",
+    "title": "Shard of Maphrok",
+    "slug": "shard-of-maphrok-location",
+    "state": "public",
+    "isWip": false,
+    "isDraft": false,
+    "entityClass": "Location",
+    "icon": "fa-solid fa-mountain",
+    "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/shard-of-maphrok-location",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2024-10-22 10:24:07.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "position": null,
+    "excerpt": null,
+    "wordcount": 437,
+    "creationDate": {
+        "date": "2024-10-07 06:19:50.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "publicationDate": {
+        "date": "2024-10-09 01:16:31.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 87,
+    "userMetadata": null,
+    "articleMetadata": null,
+    "cssClasses": null,
+    "displayCss": null,
+    "templateType": "location",
+    "customArticleTemplate": null,
+    "editor": "wysiwyg",
+    "content": "Maphrok Jungle is a dimensional plane that is connected to Lut's Tavern. Years ago, an anonymous set of chambers could be found high up in a mountain, accessed through the caldera of an active volcano. Served by a throng of kobolds, Tuckerthranx the Red called this caldera home. Home, that is, until a group of adventurers slew the fearsome dragon. During the fight to rid the land of this avaricious drake, the entire mountain collapsed. However, sustained by its magic, the lair teleported itself into the Maphrok jungle, where it laid dormant until an enterprising young biomancer - @[Dr. Francis Norman Stein](person:c26261ee-9f30-4ea1-a4aa-313a78169787) - travelled to the dimenson and made it his laboratory.\r\n\r\nThe local populations of gnomes, elves, and lizardfolk grew irksome after several of the prolific biomancer's creations escaped. In a rare display of unanimity, they decided to politely ask him to leave. When their request fell on deaf ears, pitchfork and flaming torches soon followed, and Maphrok Jungle was rid of Dr. Stein's biomantic menaces for a time.\r\n\r\nThe ultimate product of this research was @[Mut-X](technology:b1b19a40-b182-4799-8390-2e2e4b85e90c), a biomantic mutagen capable of rapidly adapting flesh to hostile enviornments. The substance slowly seeped out of its storage tanks, causing unsuspecting creatures to become unwilling participants in Dr. Stein's experiements. A primitive, dungeon-dwelling ooze known as a gelatinous cube was exposed to Mut-x, spawing a whole subspecies of polyhedroozes'.\r\n\r\nMore recently, when a enterprising group of goblins exploring the jungle found the vacant lair, and called it @[The Big Bad Base](landmark:6f10c71f-afb6-4415-9408-c3ac5dfa09e6). A family-run affair, the @[Frockkit Clan](organization:1ae6f410-693c-4fdd-99c1-f460aca5e284) were specialist dungeon builders. Their current client, a mysterious figure known only as @[Murdob'norab](person:8192796c-7565-41e5-bb1f-e7a99d5e97f3), was prepared to purchase a fully kitted-out dungeon. However, en route to delivering treasure to a secure vault within the base, the goblins were ambushed by a colossal ooze they refer to as The Motherload and the treasure was stolen.\r\n\r\nDuring the events of @[Session 001 - Polyhedrooze](report:0e13dccc-bd64-43df-aaf0-ff0f4d931ff4), a group of heroes travelled to the dimensional plane by a door in @[Lut's Tavern](location:2b240858-d31e-4caf-9c32-0b70ffc9d8cf). They allied themselves with the goblins and eventually defeated The Motherload. After these events, the goblins spent time learning from Dr. Francis Norman Stein and eventually mastered biomancy magic.",
+    "author": {
+        "id": "25c82226-f40e-4866-b883-0b0f87436174",
+        "title": "AloisiHaelgor",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "https://www.worldanvil.com/author/AloisiHaelgor",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": null,
+    "world": {
+        "id": "c1ac2421-363b-49d0-b5a1-fd68f279c9cc",
+        "title": "The Eternal Wheel",
+        "slug": "the-eternal-wheel-aloisihaelgor",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor",
+        "subscribergroups": [
+            {
+                "id": "082b6104-8c62-493f-bbbe-28d4628f4674",
+                "title": "Adventurers of Beast & Blade: An Eternal Wheel Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "98235c93-8525-4f57-82e5-aaca258732fb",
+                "title": "Adventurers of Kingmaker: An Eternal Wheel Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b8922d93-93dd-4a03-ab33-982546bd4162",
+                "title": "Adventurers of Test Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "e150fee5-0680-456b-9b76-24fe9cb7fa69",
+                "title": "Adventurers of The Blood & Sand Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "a071996d-d998-4c28-87ef-b4134629dbf0",
+                "title": "Adventurers of The Southlands Saga: An Age of Heroes Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "3b462173-b487-49e7-a327-92e416fa5546",
+                "title": "Beast & Blade: An Eternal Wheel Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c5af5b45-d93e-4c9b-aac4-47297b0e73be",
+                "title": "Kingmaker: An Eternal Wheel Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "01caf088-43de-48fa-8082-2f5ca7737304",
+                "title": "misskelmc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b094fd09-73c1-46f8-a968-e4a37c9d7a25",
+                "title": "PrinceAloisi",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "22c2e2fa-d1ce-49d9-a418-b603c1f15ab3",
+                "title": "sarahjmcc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "1e57bbd4-9677-49d5-83a6-d759c7818125",
+                "title": "Test Campaign Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "5d812551-a5df-4781-b24d-86003f40fc87",
+                "title": "The Blood & Sand Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "fe234d31-2c14-429c-a174-2a5c86a0465b",
+                "title": "The Southlands Saga: An Age of Heroes Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-04-23 10:04:31.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "cover": {
+        "id": 6473405,
+        "title": "World Cover.png",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/25c82226-f40e-4866-b883-0b0f87436174/uploads/images/f22c93f9d380937a275f9b07ede2b827.png",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": null,
+        "updateDate": {
+            "date": "2025-03-17 11:48:20.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "coverSource": "World",
+    "pronunciation": null,
+    "snippet": null,
+    "seeded": null,
+    "sidebarcontent": null,
+    "sidepanelcontenttop": null,
+    "sidepanelcontent": null,
+    "sidebarcontentbottom": null,
+    "footnotes": null,
+    "fullfooter": null,
+    "authornotes": null,
+    "scrapbook": null,
+    "credits": null,
+    "displaySidebar": true,
+    "articleNext": null,
+    "articlePrevious": null,
+    "timeline": null,
+    "prompt": null,
+    "gallery": null,
+    "articleParent": {
+        "id": "e0a242d5-7f6e-4e83-bdb9-a5a8cc0f0a9c",
+        "title": "The Shardlands",
+        "slug": "the-shardlands-location",
+        "state": "public",
+        "isWip": false,
+        "isDraft": false,
+        "entityClass": "Location",
+        "icon": "fa-solid fa-mountain",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-shardlands-location",
+        "subscribergroups": [],
+        "folderId": "0f6bca47-8cf7-4ffb-9a13-5375790fd211",
+        "tags": null,
+        "updateDate": {
+            "date": "2024-10-22 10:04:11.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "block": null,
+    "orgchart": null,
+    "showSeeded": false,
+    "webhookUpdate": false,
+    "communityUpdate": false,
+    "commentPlaceholder": null,
+    "passcodecta": null,
+    "metaTitle": null,
+    "metaDescription": null,
+    "subheading": null,
+    "coverIsMap": false,
+    "isFeaturedArticle": false,
+    "isAdultContent": false,
+    "isLocked": false,
+    "allowComments": false,
+    "allowContentCopy": false,
+    "showInToc": false,
+    "isEmphasized": false,
+    "displayAuthor": false,
+    "displayChildrenUnder": false,
+    "displayTitle": true,
+    "displaySheet": true,
+    "badge": null,
+    "childrenArticles": [
+        {
+            "id": "cf6c0d7f-3ca2-40b6-8949-b7e8c32b6289",
+            "title": "Bitterbark Clan",
+            "slug": "bitterbark-clan-organization",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/bitterbark-clan-organization",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:50:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0d0e0e79-a8a7-48e8-af52-0db2e5fba49b",
+            "title": "Bomboozler",
+            "slug": "bomboozler-item",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Item",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/bomboozler-item",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:51:14.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "e3726d23-c3b0-4054-9c9b-958503294909",
+            "title": "Caltrooze",
+            "slug": "caltrooze-item",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Item",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/caltrooze-item",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:49:20.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "61018cee-7d8e-4f84-8cfe-347ebee10eb0",
+            "title": "Dais of Leadenglen",
+            "slug": "dais-of-leadenglen-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/dais-of-leadenglen-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 12:14:12.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "1ae6f410-693c-4fdd-99c1-f460aca5e284",
+            "title": "Frockkit Clan",
+            "slug": "frockkit-clan-organization",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/frockkit-clan-organization",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:51:50.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "3288be5b-63bc-4d44-a785-73e5e9b26889",
+            "title": "Goo Luck Dice",
+            "slug": "goo-luck-dice-item",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Item",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/goo-luck-dice-item",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:50:35.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "b1b19a40-b182-4799-8390-2e2e4b85e90c",
+            "title": "Mut-X",
+            "slug": "mut-x-technology",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Technology",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/mut-x-technology",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:24:19.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "1128481b-ebab-4214-bc19-e76632ee51dc",
+            "title": "Oozemat Coat",
+            "slug": "oozemat-coat-item",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Item",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/oozemat-coat-item",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:51:24.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "f1e858ed-eb3c-433e-b84b-e9d774d58440",
+            "title": "Relanorian Relic",
+            "slug": "relanorian-relic-item",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Item",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/relanorian-relic-item",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:48:28.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "c792b390-4815-4e0e-9b2a-c94782342463",
+            "title": "Ruins of Relanoris",
+            "slug": "ruins-of-relanoris-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/ruins-of-relanoris-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:25:35.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "26ab3db0-8433-4f01-9ec7-787b1416bab9",
+            "title": "Slime-in-a-Skull",
+            "slug": "slime-in-a-skull-item",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Item",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/slime-in-a-skull-item",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:50:24.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "6f10c71f-afb6-4415-9408-c3ac5dfa09e6",
+            "title": "The Big Bad Base",
+            "slug": "the-big-bad-base-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-big-bad-base-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:25:46.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "8fe959bc-8c92-466e-ab6a-8a3018984b97",
+            "title": "Ventilation Unit D-20",
+            "slug": "ventilation-unit-d-20-item",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Item",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/ventilation-unit-d-20-item",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:48:11.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/location/fa71496e-c16b-4e70-8666-d75c0d57cf37/edit",
+    "alternativename": null,
+    "geography": null,
+    "naturalresources": null,
+    "population": null,
+    "areaSize": null,
+    "demographics": null,
+    "demonym": null,
+    "defences": null,
+    "infrastructure": null,
+    "guilds": null,
+    "history": null,
+    "tourism": null,
+    "industry": null,
+    "architecture": null,
+    "government": null,
+    "assets": null,
+    "locationTemplateType": null,
+    "constructed": null,
+    "ruined": null,
+    "florafauna": null,
+    "ecosystem": null,
+    "ecosystemCycles": null,
+    "localizedPhenomena": null,
+    "climate": null,
+    "alterations": null,
+    "purpose": null,
+    "design": null,
+    "entries": null,
+    "denizens": null,
+    "valuables": null,
+    "hazards": null,
+    "effects": null,
+    "sensory": null,
+    "properties": null,
+    "contents": null,
+    "pointOfInterest": null,
+    "district": null,
+    "people": [
+        {
+            "id": "c556eed6-ee41-43e5-a8ae-3db1e56c0f31",
+            "title": "Bogbolz",
+            "slug": "bogbolz-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": null,
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 09:55:34.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "8192796c-7565-41e5-bb1f-e7a99d5e97f3",
+            "title": "Murdob'norab",
+            "slug": "murdob-norab-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/murdob-norab-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 09:58:25.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "children": [
+        {
+            "id": "61018cee-7d8e-4f84-8cfe-347ebee10eb0",
+            "title": "Dais of Leadenglen",
+            "slug": "dais-of-leadenglen-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/dais-of-leadenglen-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 12:14:12.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "c792b390-4815-4e0e-9b2a-c94782342463",
+            "title": "Ruins of Relanoris",
+            "slug": "ruins-of-relanoris-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/ruins-of-relanoris-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:25:35.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "6f10c71f-afb6-4415-9408-c3ac5dfa09e6",
+            "title": "The Big Bad Base",
+            "slug": "the-big-bad-base-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-big-bad-base-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:25:46.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "includedOrganizations": [
+        {
+            "id": "cf6c0d7f-3ca2-40b6-8949-b7e8c32b6289",
+            "title": "Bitterbark Clan",
+            "slug": "bitterbark-clan-organization",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/bitterbark-clan-organization",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:50:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "1ae6f410-693c-4fdd-99c1-f460aca5e284",
+            "title": "Frockkit Clan",
+            "slug": "frockkit-clan-organization",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/frockkit-clan-organization",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:51:50.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "reportprimarylocations": [
+        {
+            "id": "51d79ad7-5c74-4548-8076-c9d914e21857",
+            "title": "Session 001 - Polyhedrooze",
+            "slug": "session-001---polyhedrooze-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-001---polyhedrooze-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2024-12-19 07:12:19.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "characters": [
+        {
+            "id": "7f5b79fa-db72-4e6b-b429-f70d2c2d1089",
+            "title": "Bogbolz",
+            "slug": "ddb84f49-326b-44fc-8deb-ab7eb6c5cadb",
+            "state": "visible",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Character",
+            "icon": "fa-solid fa-mask",
+            "url": "https://www.worldanvil.com/hero/ddb84f49-326b-44fc-8deb-ab7eb6c5cadb",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": null
+        }
+    ],
+    "parent": {
+        "id": "e0a242d5-7f6e-4e83-bdb9-a5a8cc0f0a9c",
+        "title": "The Shardlands",
+        "slug": "the-shardlands-location",
+        "state": "public",
+        "isWip": false,
+        "isDraft": false,
+        "entityClass": "Location",
+        "icon": "fa-solid fa-mountain",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-shardlands-location",
+        "subscribergroups": [],
+        "folderId": "0f6bca47-8cf7-4ffb-9a13-5375790fd211",
+        "tags": null,
+        "updateDate": {
+            "date": "2024-10-22 10:04:11.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "type": {
+        "id": "c9f2ded2-a684-4dfe-818d-4c181f3b1180",
+        "title": "Dimensional, Pocket",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "LocationType",
+        "icon": null,
+        "url": null,
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "person": null,
+    "vehicle": null,
+    "rank": null,
+    "organization": null,
+    "plots": [
+        {
+            "id": "91ef1b1e-e86b-4081-9ec8-3105f5ead85e",
+            "title": "The Shardlands Saga",
+            "slug": "the-shardlands-saga-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-shardlands-saga-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2025-03-17 00:47:38.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "professions": [
+        {
+            "id": "1f06c727-e9d5-4893-8a5a-143f89c726b8",
+            "title": "Biomancer Wizard",
+            "slug": "biomancer-wizard-profession",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/biomancer-wizard-profession",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-11 05:27:11.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "species": [
+        {
+            "id": "c34bbe29-df9d-4f2c-a438-57b7794f54d3",
+            "title": "Giant Wasp",
+            "slug": "giant-wasp-species",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/giant-wasp-species",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:09:46.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a4167612-adbd-4b4c-a5da-c41e65e34e03",
+            "title": "Hexahedrooze",
+            "slug": "hexahedrooze-species",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/hexahedrooze-species",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:22:13.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0c07e004-ea7d-4b5f-8b11-c2a80f1e59c9",
+            "title": "Jungle Elf",
+            "slug": "jungle-elf-species",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/jungle-elf-species",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 04:16:56.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "8fef9216-a072-4070-a6f1-e26010f9ce9a",
+            "title": "Jungle Goblin",
+            "slug": "jungle-goblin-species",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/jungle-goblin-species",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-11 05:49:58.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "26062a89-5761-4198-b70d-b06b4a117988",
+            "title": "Noradreno Mucorales",
+            "slug": "noradreno-mucorales-species",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/noradreno-mucorales-species",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2024-10-23 10:20:03.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "7c541967-a12b-4e62-8cf3-df77d002b0b1",
+            "title": "Oyohuisca Pyrexia",
+            "slug": "oyohuisca-pyrexia-species",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/oyohuisca-pyrexia-species",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-23 10:21:35.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "681d0281-706a-4378-bbdc-e7c7c2a6da54",
+            "title": "Swarm of Insects",
+            "slug": "swarm-of-insects-species",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/swarm-of-insects-species",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:09:56.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "191d8435-6741-4138-ba1d-9357e3eb44b5",
+            "title": "Tetrahedrooze",
+            "slug": "tetrahedrooze-species",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/tetrahedrooze-species",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:22:24.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "899d9670-cf99-4809-9f67-3a5977a17aa8",
+            "title": "The Motherload",
+            "slug": "the-motherload-species",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Species",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-motherload-species",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:22:36.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "isEditable": true,
+    "success": true
+}

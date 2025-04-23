@@ -1,0 +1,966 @@
+{
+    "id": "48ed074a-7356-4eb8-88a6-f3bd91c3e4ef",
+    "title": "Shemsu-Ra",
+    "slug": "shemsu-ra-organization",
+    "state": "public",
+    "isWip": false,
+    "isDraft": false,
+    "entityClass": "Organization",
+    "icon": "fa-solid fa-shield-quartered",
+    "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/shemsu-ra-organization",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": "ymataradiplomacy",
+    "updateDate": {
+        "date": "2025-04-18 07:16:15.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "position": null,
+    "excerpt": null,
+    "wordcount": 1375,
+    "creationDate": {
+        "date": "2025-03-13 02:48:01.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "publicationDate": {
+        "date": "2025-04-17 15:18:17.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 25,
+    "userMetadata": null,
+    "articleMetadata": "{\"e8bcc9437f437a1dbfe675cfda888e6b\":1}",
+    "cssClasses": null,
+    "displayCss": null,
+    "templateType": "organization",
+    "customArticleTemplate": null,
+    "flag": {
+        "id": 6568077,
+        "title": "The Shemsu-Ra.png",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/25c82226-f40e-4866-b883-0b0f87436174/uploads/images/a37a7504da2135fb67d5e8b22ff31a8d.png",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": null,
+        "updateDate": {
+            "date": "2025-04-17 16:12:11.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "editor": "code",
+    "content": "The Shemsu-Ra are the arcane stewards of Y’Matara—an elite Collegium of scholars, battle-mages, archivists, and magical regulators. Formed in the final centuries of the Age of Heroes, they exist to preserve the relics of lost civilisations, regulate spellcasting within the city, and ensure that dangerous knowledge remains sealed from misuse. \r\n\r\nGuided by their eight Disciplines and governed by a council of elder magi, the Shemsu-Ra wield not only power, but restraint—believing that understanding the past is the only safeguard against repeating its ruin.\r\n\r\n[h2]Scholarly Structure[/h2]\r\n\r\nAspiring scholars begin as observers under sponsorship from a @[Master](rank:aa65e207-771d-4745-b7ab-e794bf7f7e7e) or a @[Elder Scholar](rank:0dc05497-67f8-470c-abbb-b39f3e182e94). Once accepted, they enter the @[Obelisk Academy](landmark:0fa396a8-db58-45b2-a5fe-87ec46bde256) as an [b]Initiate[/b], undergoing two to three years of study before the [i]Trial of the Thousand Petal[/i]s—a week-long ordeal of lectures, spellwork, philosophical debate, and a relic identification gauntlet. Successful candidates select their Discipline and ascend to @[Novice](rank:56538d36-0c92-480f-89e0-b5bfaf027c20).\r\n\r\nEach Discipline acts both as a philosophical alignment and collegiate affiliation, akin to a magical school of thought.\r\n\r\nEach discipline has four ranks:\r\n\r\n[ul][li]@[Novice](rank:56538d36-0c92-480f-89e0-b5bfaf027c20)[/li][/ul]\r\n[ul][li]@[Adept](rank:75602e8d-aa1e-4a3a-9719-5084f6dffd8a)[/li][/ul]\r\n[ul][li]@[Master](rank:aa65e207-771d-4745-b7ab-e794bf7f7e7e)[/li][/ul]\r\n[ul][li]@[Elder Scholar](rank:0dc05497-67f8-470c-abbb-b39f3e182e94)[/li][/ul]\r\n\r\nThe leader of the Shemsu-Ra is known as the @[Archmagus](rank:78aa80bb-0b30-4f46-a137-b1117aeb43d8).\r\n\r\nEach Discipline of the Shemsu-Ra bears a unique sigil that encapsulates its philosophy and purpose. These sigils appear on correspondence, official documents, and are magically inscribed into the walls of the Scholar Quarter.\r\n\r\nIn addition it is branded as an illusionary mark, hovering subtly above the left hand or collarbone, visible only to those with arcane sight or during formal gatherings. Otherwise othersiders can determine the discipline by the colour of their robes.\r\n\r\n[h3]Disciplines of the Shemsu-Ra[/h3]\r\n\r\n[b]Discipline of Flame[/b] focuses on direct magical application - ritual casting, evocation, and battle-magic. Its adherents are masters of magical combat and ceremonial spells, often called upon to safeguard vaults or respond to arcane threats. They value discipline, structure, and precision, believing power must be perfectly executed to be safe. \r\n\r\n[i]Sigil -[/i] A stylised rising flame encased in a ring of nine runes, representing focus and power restrained by law. Typically rendered in crimson and gold.\r\n\r\n[b]Discipline of Light[/b] concerns itself with the study of logic, cosmology, and divine harmonics. They are theorists and truthseekers, tracking celestial alignments and building models of magical law. Often functioning as advisors, they bring clarity and reason to arcane ethics and political matters.\r\n\r\n[i]Sigil -[/i] A radiant eye within a triangle, surrounded by an orbit of three stars. This symbolises clarity, balance, and enlightened reason. Often depicted in white and azure.\r\n\r\n[b]Discipline of Flesh [/b] delves into @[Biomancy](technology:4f13b07d-8b6c-4b9f-853d-e5842334e9ab), alchemy, and transmutation. These scholars view the body as the first text of magic and experiment with life, decay, and transformation. Sometimes viewed with unease, they push the limits of what arcane alteration can achieve, often walking the line between miracle and monstrosity.\r\n\r\n[i]Sigil -[/i] An ouroboros coiled around a flowering heart, symbolising the cycle of decay and rebirth, and the power inherent in transformation. Marked in black and green.\r\n\r\n[b]Discipline of Script[/b] centres around the language of magic—runes, glyphs, scrollwork, and arcane linguistics. They maintain the Vault catalogues and develop the sigil-based wards that secure the city. Known for their precision and philosophical austerity, their work ensures that magic is not only felt but understood.\r\n\r\n[i]Sigil -[/i]  A quill dripping ink into a perfect spiral, contained within an open scroll. It represents the layered complexity of language and magical meaning. Inscribed in saffron and iron.\r\n\r\n[b]Discipline of Mind [/b]explores the psyche, dream-magic, emotion, and soul-mapping. They train in memory extraction, illusionary healing, and psychological interrogation. Seen as enigmatic and introspective, their contributions often shape magical policy and interrogative procedures.\r\n\r\n[i]Sigil -[/i] A twin-faced mask, one serene and one dreaming, set within a crescent moon. This sigil embodies introspection, duality, and hidden truths. Rendered in bone-white and violet.\r\n\r\n[b]Discipline of Shadow [/b] studies forbidden lore, dangerous relics, and counter-curse magic. As arcane inquisitors and magical containment experts, they are both feared and respected. They operate at the edge of legality, interpreting and neutralising corruptive forces that others fear to name.\r\n\r\n[i]Sigil -[/i] A broken chain wrapped around an eclipsed sun. This symbol denotes the containment of the forbidden and mastery of peril. Appears in copper and midnight blue.\r\n\r\n[b]Discipline of Lore [/b] consists of educators, historians, and ethicists. They are the public face of the Shemsu-Ra, teaching in public forums and preserving the moral compass of the Collegium. Loremasters often arbitrate internal disputes and mentor initiates from all disciplines.\r\n\r\n[i]Sigil -[/i] An open book framed by laurel branches, with a scale above it. It represents the balance of history and judgement, and the sacred stewardship of knowledge. Coloured in ochre and sandstone.\r\n\r\n[b]Discipline of Dust [/b] is concerned with fieldwork and relic recovery. They are the archeomancers and ruin-walkers of the order, risking life and limb to recover what was lost. They decipher the ancient and the obscure, returning relics to the Vault and stories to the city.\r\n\r\n[i]Sigil -[/i] A cracked compass rising from buried stone, its points shaped like relics. This sigil marks the search for lost truths and the reconstruction of forgotten wisdom. Typically rust and umber in tone.\r\n\r\n[h2]Role in Civic Law[/h2]\r\n\r\n[h3]Spellcaster Registration[/h3]\r\n\r\nAll known arcane users within Y’Matara must register with the Shemsu-Ra. This mandate exists to:\r\n[ul][li]Ensure magical security and oversight within the city’s limits[/li][/ul]\r\n[ul][li]Prevent misuse of unlicensed arcana or volatile spellforms[/li][/ul]\r\n[ul][li]Catalogue emerging talents and direct promising individuals toward formal training[/li][/ul]\r\n\r\nThe Shemsu-Ra operate a division within the @[Obelisk Academy](landmark:0fa396a8-db58-45b2-a5fe-87ec46bde256) known as @[The Censorium Arcanum](landmark:81e31384-a280-4df0-9534-b078b3a711ef), responsible for maintaining spellcaster records, issuing licences, and monitoring unlawful spellcasting. New arrivals are interviewed by adepts of the Disciplines of Light or Script to assess arcane aptitude and safety risk. Unregistered casting carries heavy penalties, including magical silencing, exile, or containment within a Null Ward.\r\n\r\n[h2]Law of the Measured Force[/h2]\r\n\r\nThe ancient Law of Measured Force dictates that any weapon drawn in the city must draw blood—but not cause death. This principle stems from the founding of the city itself: justice must be seen, not final.\r\n\r\n Magical forensics are employed to ensure compliance, using blood-detection spells and post-incident illusions to reconstruct events.\r\n\r\nRepeat offenders may face mind-binding sanctions, loss of licence, or required memory scouring.\r\n\r\n[h2]Player Options\r\n[/h2]\r\n[itable:044a2fa7-8c0f-4e43-87b5-793044a623de]\r\n\r\n[h2]Diplomatic Ties[/h2]\r\n[diplomacy:ymataradiplomacy]",
+    "author": {
+        "id": "25c82226-f40e-4866-b883-0b0f87436174",
+        "title": "AloisiHaelgor",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "https://www.worldanvil.com/author/AloisiHaelgor",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": null,
+    "world": {
+        "id": "c1ac2421-363b-49d0-b5a1-fd68f279c9cc",
+        "title": "The Eternal Wheel",
+        "slug": "the-eternal-wheel-aloisihaelgor",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor",
+        "subscribergroups": [
+            {
+                "id": "082b6104-8c62-493f-bbbe-28d4628f4674",
+                "title": "Adventurers of Beast & Blade: An Eternal Wheel Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "98235c93-8525-4f57-82e5-aaca258732fb",
+                "title": "Adventurers of Kingmaker: An Eternal Wheel Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b8922d93-93dd-4a03-ab33-982546bd4162",
+                "title": "Adventurers of Test Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "e150fee5-0680-456b-9b76-24fe9cb7fa69",
+                "title": "Adventurers of The Blood & Sand Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "a071996d-d998-4c28-87ef-b4134629dbf0",
+                "title": "Adventurers of The Southlands Saga: An Age of Heroes Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "3b462173-b487-49e7-a327-92e416fa5546",
+                "title": "Beast & Blade: An Eternal Wheel Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c5af5b45-d93e-4c9b-aac4-47297b0e73be",
+                "title": "Kingmaker: An Eternal Wheel Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "01caf088-43de-48fa-8082-2f5ca7737304",
+                "title": "misskelmc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b094fd09-73c1-46f8-a968-e4a37c9d7a25",
+                "title": "PrinceAloisi",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "22c2e2fa-d1ce-49d9-a418-b603c1f15ab3",
+                "title": "sarahjmcc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "1e57bbd4-9677-49d5-83a6-d759c7818125",
+                "title": "Test Campaign Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "5d812551-a5df-4781-b24d-86003f40fc87",
+                "title": "The Blood & Sand Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "fe234d31-2c14-429c-a174-2a5c86a0465b",
+                "title": "The Southlands Saga: An Age of Heroes Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-04-23 10:04:31.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "cover": {
+        "id": 6473405,
+        "title": "World Cover.png",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/25c82226-f40e-4866-b883-0b0f87436174/uploads/images/f22c93f9d380937a275f9b07ede2b827.png",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": null,
+        "updateDate": {
+            "date": "2025-03-17 11:48:20.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "coverSource": "World",
+    "pronunciation": null,
+    "snippet": null,
+    "seeded": null,
+    "sidebarcontent": "[section:lore-box]\r\n[center][h4]Mission Statement[/h4][/center]\r\nTo protect, analyse, and preserve the arcane legacies of antiquity. The Shemsu-Ra study not to worship, but to understand; they collect relics and forbidden knowledge not for power, but to ensure they are never misused again. Their Eternal Vaults store truths too dangerous to be known, and their disciplines explore the world's deepest mysteries.[/section]",
+    "sidepanelcontenttop": null,
+    "sidepanelcontent": null,
+    "sidebarcontentbottom": "[section:lore-box][center][h4]Founding Myth[/h4][/center]\r\nLegend holds that the Shemsu-Ra emerged from the advisors of @[Atenara](person:2f5a39b0-a24a-4643-bf3f-e9d622523ee8) during the first century of the Age of Heroes. They codified ancient magics and truths from collapsing empires into an organised, principled scholastic order. [/section]\r\n\r\n[hr]",
+    "footnotes": null,
+    "fullfooter": null,
+    "authornotes": null,
+    "scrapbook": null,
+    "credits": null,
+    "displaySidebar": true,
+    "articleNext": null,
+    "articlePrevious": null,
+    "timeline": null,
+    "prompt": null,
+    "gallery": null,
+    "articleParent": {
+        "id": "9f4a4b76-176d-4434-bdad-f1e1f9901f83",
+        "title": "Y'Matara",
+        "slug": "y-matara-settlement",
+        "state": "public",
+        "isWip": false,
+        "isDraft": false,
+        "entityClass": "Settlement",
+        "icon": "fa-solid fa-file",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/y-matara-settlement",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "ScarletJackals",
+        "updateDate": {
+            "date": "2025-04-18 07:17:09.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "block": null,
+    "orgchart": null,
+    "showSeeded": false,
+    "webhookUpdate": false,
+    "communityUpdate": false,
+    "commentPlaceholder": null,
+    "passcodecta": null,
+    "metaTitle": null,
+    "metaDescription": null,
+    "subheading": null,
+    "coverIsMap": false,
+    "isFeaturedArticle": false,
+    "isAdultContent": false,
+    "isLocked": false,
+    "allowComments": true,
+    "allowContentCopy": false,
+    "showInToc": true,
+    "isEmphasized": false,
+    "displayAuthor": false,
+    "displayChildrenUnder": true,
+    "displayTitle": true,
+    "displaySheet": true,
+    "badge": null,
+    "secrets": [
+        {
+            "id": "638a6119-a49e-42ba-b6fa-926362b33aa8",
+            "title": "Current Issues and Intrigues",
+            "slug": null,
+            "state": "private",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Secret",
+            "icon": "fa-solid fa-user-secret",
+            "url": "https://www.worldanvil.com/world/secret/638a6119-a49e-42ba-b6fa-926362b33aa8/edit",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-17 15:54:22.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "childrenArticles": [
+        {
+            "id": "75602e8d-aa1e-4a3a-9719-5084f6dffd8a",
+            "title": "Adept",
+            "slug": "adept-rank",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/adept-rank",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-18 15:56:44.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "78aa80bb-0b30-4f46-a137-b1117aeb43d8",
+            "title": "Archmagus",
+            "slug": "archmagus-rank",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/archmagus-rank",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2025-04-18 15:56:52.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0dc05497-67f8-470c-abbb-b39f3e182e94",
+            "title": "Elder Scholar",
+            "slug": "elder-scholar-rank",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/elder-scholar-rank",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2025-04-18 15:57:02.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "aa65e207-771d-4745-b7ab-e794bf7f7e7e",
+            "title": "Master",
+            "slug": "master-rank",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/master-rank",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-22 10:58:37.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "56538d36-0c92-480f-89e0-b5bfaf027c20",
+            "title": "Novice",
+            "slug": "novice-rank",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/novice-rank",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-18 15:55:59.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/organization/48ed074a-7356-4eb8-88a6-f3bd91c3e4ef/edit",
+    "motto": null,
+    "publicAgenda": null,
+    "alternativeNames": null,
+    "demonym": null,
+    "assets": null,
+    "structure": null,
+    "history": null,
+    "disbandment": null,
+    "demographics": null,
+    "veterancy": null,
+    "trainingLevel": "Professional",
+    "governmentsystem": "Magocracy",
+    "powerstructure": null,
+    "economicsystem": null,
+    "legislative": null,
+    "judicial": null,
+    "executive": null,
+    "gazetteer": null,
+    "currency": null,
+    "territory": null,
+    "military": null,
+    "religion": null,
+    "technology": null,
+    "foreignrelations": null,
+    "laws": null,
+    "culture": null,
+    "imports": null,
+    "exports": null,
+    "agricultureAndIndustry": null,
+    "tradeAndTransport": null,
+    "education": null,
+    "infrastructure": null,
+    "mythos": null,
+    "origins": null,
+    "cosmology": null,
+    "tenets": null,
+    "priesthood": null,
+    "ethics": null,
+    "divinepowers": null,
+    "intrigue": null,
+    "worship": null,
+    "sects": null,
+    "foundingDate": null,
+    "dissolutionDate": null,
+    "showDiplomacy": true,
+    "capital": null,
+    "geographicLocation": {
+        "id": "9f4a4b76-176d-4434-bdad-f1e1f9901f83",
+        "title": "Y'Matara",
+        "slug": "y-matara-settlement",
+        "state": "public",
+        "isWip": false,
+        "isDraft": false,
+        "entityClass": "Settlement",
+        "icon": "fa-solid fa-file",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/y-matara-settlement",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "ScarletJackals",
+        "updateDate": {
+            "date": "2025-04-18 07:17:09.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "parent": null,
+    "statereligion": null,
+    "type": {
+        "id": "12acb17b-2b6e-4241-9eed-cfc222298471",
+        "title": "Educational, School/Academy",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "OrganizationType",
+        "icon": null,
+        "url": null,
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "formation": null,
+    "leader": null,
+    "familyleader": null,
+    "headofstate": null,
+    "leadertitle": null,
+    "headofgovernment": null,
+    "rulingorganization": {
+        "id": "4c2b0e0b-ca96-46d9-b6fa-d7f58c6e2de7",
+        "title": "Council of Voices",
+        "slug": "council-of-voices-organization",
+        "state": "public",
+        "isWip": false,
+        "isDraft": false,
+        "entityClass": "Organization",
+        "icon": "fa-solid fa-shield-quartered",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/council-of-voices-organization",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": "ymataradiplomacy",
+        "updateDate": {
+            "date": "2025-04-18 07:15:23.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "locations": [
+        {
+            "id": "399d89f1-c3cf-43f0-832a-2f3890b9f2f8",
+            "title": "Bureau of Civic Relics",
+            "slug": "bureau-of-civic-relics-landmark",
+            "state": "public",
+            "isWip": true,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/bureau-of-civic-relics-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-22 11:00:52.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "378fb7ed-d3e8-42d6-b48e-cfb590d3ee32",
+            "title": "Concordat Archives",
+            "slug": "concordat-archives-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/concordat-archives-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-22 10:40:26.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "35e2e0e6-0c7e-47a3-8ef8-689ad78c31b6",
+            "title": "Custodian Hall",
+            "slug": "custodian-hall-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/custodian-hall-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-17 15:09:19.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "f5993e95-03f3-4d8d-a525-79400569f23a",
+            "title": "Grand Eternal Vault",
+            "slug": "grand-eternal-vault-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/grand-eternal-vault-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2025-04-17 15:07:05.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0fa396a8-db58-45b2-a5fe-87ec46bde256",
+            "title": "Obelisk Academy",
+            "slug": "obelisk-academy-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/obelisk-academy-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2025-04-17 15:05:22.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "81e31384-a280-4df0-9534-b078b3a711ef",
+            "title": "The Censorium Arcanum",
+            "slug": "the-censorium-arcanum-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-censorium-arcanum-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-17 15:03:33.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "508c1c8b-7d5a-4408-be17-1567dafc2adb",
+            "title": "The Collegium of Antiquities and Subterranean Studies",
+            "slug": "the-collegium-of-antiquities-and-subterranean-studies-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-collegium-of-antiquities-and-subterranean-studies-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-17 15:07:44.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a61eff81-0670-4f19-b899-7325f8038b66",
+            "title": "The Red Hall",
+            "slug": "the-red-hall-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-red-hall-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-17 15:12:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "597b7d01-78f7-47aa-ad26-eb2f3fcac9b9",
+            "title": "The Subterraneum",
+            "slug": "the-subterraneum-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-subterraneum-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-17 15:48:46.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "a5914d03-7536-4312-a41a-0b0d22859d0a",
+            "title": "The Tribunal Hall",
+            "slug": "the-tribunal-hall-landmark",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Landmark",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-tribunal-hall-landmark",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-17 15:10:26.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "people": [
+        {
+            "id": "f94b1f7f-d3a8-4024-a764-5af9b5bd197c",
+            "title": "Akhmethes Zekhir-Sa",
+            "slug": "akhmethes-zekhir-sa-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/akhmethes-zekhir-sa-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-17 16:14:27.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "c8cabaa2-05b0-488b-a955-659866daf5ed",
+            "title": "Kasim",
+            "slug": "kasim-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/kasim-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-21 05:31:43.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "e3a1185d-2b81-4434-961f-426648b62630",
+            "title": "Sarathis Yareen",
+            "slug": "sarathis-yareen-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/sarathis-yareen-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-23 08:51:13.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "organizationranks": [
+        {
+            "id": "75602e8d-aa1e-4a3a-9719-5084f6dffd8a",
+            "title": "Adept",
+            "slug": "adept-rank",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/adept-rank",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-18 15:56:44.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "78aa80bb-0b30-4f46-a137-b1117aeb43d8",
+            "title": "Archmagus",
+            "slug": "archmagus-rank",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/archmagus-rank",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2025-04-18 15:56:52.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0dc05497-67f8-470c-abbb-b39f3e182e94",
+            "title": "Elder Scholar",
+            "slug": "elder-scholar-rank",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/elder-scholar-rank",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2025-04-18 15:57:02.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "aa65e207-771d-4745-b7ab-e794bf7f7e7e",
+            "title": "Master",
+            "slug": "master-rank",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/master-rank",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-22 10:58:37.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "56538d36-0c92-480f-89e0-b5bfaf027c20",
+            "title": "Novice",
+            "slug": "novice-rank",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Rank",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/novice-rank",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-18 15:55:59.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "otherpeople": [
+        {
+            "id": "4f7ec176-469e-498e-b19f-19b5d39c1bb1",
+            "title": "Samira Ament",
+            "slug": "samira-ament-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/samira-ament-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-22 11:24:29.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "plots": [
+        {
+            "id": "b0be86c9-470a-41f1-aa2d-165811c8a2b4",
+            "title": "BSS-002-MOA-000: Malevolence of Anub-Ka",
+            "slug": "bss-002-moa-0003A-malevolence-of-anub-ka-plot",
+            "state": "private",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/bss-002-moa-0003A-malevolence-of-anub-ka-plot",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-22 11:08:09.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "6678376e-684c-4377-81a8-fbe13f980b46",
+            "title": "BSS-002-MOA-001: A Cry For Help",
+            "slug": "bss-002-moa-0013A-a-cry-for-help-plot",
+            "state": "private",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/bss-002-moa-0013A-a-cry-for-help-plot",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-22 11:13:49.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "professions": [
+        {
+            "id": "f3b3b60c-b5e1-4513-8623-b5584495a6c5",
+            "title": "Curator of the Bureau of Civic Relics",
+            "slug": "curator-of-the-bureau-of-civic-relics-profession",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/curator-of-the-bureau-of-civic-relics-profession",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-23 08:58:30.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "isEditable": true,
+    "success": true
+}
