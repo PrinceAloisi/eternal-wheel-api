@@ -1,0 +1,1594 @@
+{
+    "id": "558f3108-e120-499e-818f-4ad346e8017e",
+    "title": "The Wild Beyond the Witchlight",
+    "slug": "the-wild-beyond-the-witchlight-plot",
+    "state": "public",
+    "isWip": false,
+    "isDraft": false,
+    "entityClass": "Plot",
+    "icon": "fa-solid fa-file",
+    "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-wild-beyond-the-witchlight-plot",
+    "subscribergroups": [],
+    "folderId": "-1",
+    "tags": null,
+    "updateDate": {
+        "date": "2024-10-10 00:04:28.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "position": null,
+    "excerpt": null,
+    "wordcount": 100,
+    "creationDate": {
+        "date": "2024-10-09 13:51:26.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "publicationDate": {
+        "date": "2024-10-09 14:42:13.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "notificationDate": null,
+    "likes": null,
+    "views": 77,
+    "userMetadata": null,
+    "articleMetadata": null,
+    "cssClasses": null,
+    "displayCss": null,
+    "templateType": "plot",
+    "customArticleTemplate": null,
+    "editor": "wysiwyg",
+    "content": "The Wild Beyond the Witchlight begins on the outskirts of a city, then ventures into the Feywild, a place of wonder and whimsy ruled by unfettered emotion. The players have memories as children when they visited the wonderous Witchlight Carnival, they remember rides, attractions, and food. However, they all have a distinct feeling of not returning home whole. It’s now been many years, and the players find themselves once again at the front of the fey carnival.\r\n\r\n\r\n[img:5983478]\r\n\r\n[img:5992923|center]\r\n[center][color:#efefef][i]Figure 1: The Lands of Prismeer[/i][/color][/center][img:5983478]",
+    "author": {
+        "id": "25c82226-f40e-4866-b883-0b0f87436174",
+        "title": "AloisiHaelgor",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "User",
+        "icon": "fa-solid fa-user",
+        "url": "https://www.worldanvil.com/author/AloisiHaelgor",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "category": {
+        "id": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+        "title": "Campaigns",
+        "slug": "campaigns-category",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Category",
+        "icon": "fa-solid fa-folder",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/c/campaigns-category",
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "world": {
+        "id": "c1ac2421-363b-49d0-b5a1-fd68f279c9cc",
+        "title": "The Eternal Wheel",
+        "slug": "the-eternal-wheel-aloisihaelgor",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor",
+        "subscribergroups": [
+            {
+                "id": "082b6104-8c62-493f-bbbe-28d4628f4674",
+                "title": "Adventurers of Beast & Blade: An Eternal Wheel Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "98235c93-8525-4f57-82e5-aaca258732fb",
+                "title": "Adventurers of Kingmaker: An Eternal Wheel Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b8922d93-93dd-4a03-ab33-982546bd4162",
+                "title": "Adventurers of Test Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "e150fee5-0680-456b-9b76-24fe9cb7fa69",
+                "title": "Adventurers of The Blood & Sand Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "a071996d-d998-4c28-87ef-b4134629dbf0",
+                "title": "Adventurers of The Southlands Saga: An Age of Heroes Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "3b462173-b487-49e7-a327-92e416fa5546",
+                "title": "Beast & Blade: An Eternal Wheel Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c5af5b45-d93e-4c9b-aac4-47297b0e73be",
+                "title": "Kingmaker: An Eternal Wheel Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "01caf088-43de-48fa-8082-2f5ca7737304",
+                "title": "misskelmc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b094fd09-73c1-46f8-a968-e4a37c9d7a25",
+                "title": "PrinceAloisi",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "22c2e2fa-d1ce-49d9-a418-b603c1f15ab3",
+                "title": "sarahjmcc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "1e57bbd4-9677-49d5-83a6-d759c7818125",
+                "title": "Test Campaign Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "5d812551-a5df-4781-b24d-86003f40fc87",
+                "title": "The Blood & Sand Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "fe234d31-2c14-429c-a174-2a5c86a0465b",
+                "title": "The Southlands Saga: An Age of Heroes Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-04-23 10:04:31.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "cover": {
+        "id": 6473405,
+        "title": "World Cover.png",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/25c82226-f40e-4866-b883-0b0f87436174/uploads/images/f22c93f9d380937a275f9b07ede2b827.png",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": null,
+        "updateDate": {
+            "date": "2025-03-17 11:48:20.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "coverSource": "World",
+    "pronunciation": null,
+    "snippet": null,
+    "seeded": null,
+    "sidebarcontent": null,
+    "sidepanelcontenttop": null,
+    "sidepanelcontent": null,
+    "sidebarcontentbottom": null,
+    "footnotes": null,
+    "fullfooter": null,
+    "authornotes": null,
+    "scrapbook": null,
+    "credits": null,
+    "displaySidebar": true,
+    "articleNext": null,
+    "articlePrevious": null,
+    "timeline": null,
+    "prompt": null,
+    "gallery": null,
+    "articleParent": null,
+    "block": null,
+    "orgchart": null,
+    "showSeeded": false,
+    "webhookUpdate": false,
+    "communityUpdate": false,
+    "commentPlaceholder": null,
+    "passcodecta": null,
+    "metaTitle": null,
+    "metaDescription": null,
+    "subheading": null,
+    "coverIsMap": false,
+    "isFeaturedArticle": false,
+    "isAdultContent": false,
+    "isLocked": false,
+    "allowComments": false,
+    "allowContentCopy": false,
+    "showInToc": false,
+    "isEmphasized": false,
+    "displayAuthor": false,
+    "displayChildrenUnder": false,
+    "displayTitle": true,
+    "displaySheet": true,
+    "badge": null,
+    "childrenArticles": [
+        {
+            "id": "97eac951-7733-4ad2-b408-ddcac034708d",
+            "title": "Aldyth Tharnaerl",
+            "slug": "aldyth-tharnaerl-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/aldyth-tharnaerl-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:17:59.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9ea5d0a7-e904-4d11-a983-ec879a32a3b7",
+            "title": "Bahr Reigh",
+            "slug": "bahr-reigh-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/bahr-reigh-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:01:07.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d361e6a1-311e-4c57-9d17-8e8af051c0fd",
+            "title": "Gahr Reigh",
+            "slug": "gahr-reigh-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/gahr-reigh-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:20:30.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "96bd9602-149e-432e-b98d-e78caf0deb8c",
+            "title": "Kiara Hollow",
+            "slug": "kiara-hollow-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/kiara-hollow-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:26:16.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "4ed33268-d880-4a7d-ab71-cd87facc601d",
+            "title": "Klej",
+            "slug": "klej-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/klej-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:12:57.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9be05c6a-9bd9-492d-8a20-9744b6e37cce",
+            "title": "Lilygrove Thornwhisper",
+            "slug": "lilygrove-thornwhisper-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/lilygrove-thornwhisper-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:28:44.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d4f75940-24ee-4ffd-b032-b6bbeaeeca7f",
+            "title": "Meela Puddlemuck",
+            "slug": "meela-puddlemuck-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/meela-puddlemuck-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:10:08.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "562b9e75-51f4-44e1-95ab-2ecde2e543ed",
+            "title": "Mordren Pekka",
+            "slug": "mordren-pekka-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/mordren-pekka-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:15:47.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "06a6fc94-6fce-4149-8119-9ebfc0bdc7be",
+            "title": "Myrtle Shellback",
+            "slug": "myrtle-shellback-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/myrtle-shellback-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:30:45.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "70d17c40-374c-4450-bd38-32f391bdbd41",
+            "title": "Pippa Quickstep",
+            "slug": "pippa-quickstep-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/pippa-quickstep-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:04:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d7370fed-5453-4720-bc53-ab03e29998f0",
+            "title": "Session 001 - The Witchlight Carnival!",
+            "slug": "session-001---the-witchlight-carnival21-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-001---the-witchlight-carnival21-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:45:09.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "dd1a0da1-7938-4c58-8c23-94a7211b151b",
+            "title": "Session 002 - The Crowning of the Monarch",
+            "slug": "session-002---the-crowning-of-the-monarch-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-002---the-crowning-of-the-monarch-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:46:53.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "b04ccef9-c311-4789-b1fc-efea6947e137",
+            "title": "Session 003 - The Slanty Tower",
+            "slug": "session-003---the-slanty-tower-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-003---the-slanty-tower-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:23:45.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "88d2fd11-21c3-4ba0-8638-0290ed86e418",
+            "title": "Session 004 - The Missing Firbolg",
+            "slug": "session-004---the-missing-firbolg-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-004---the-missing-firbolg-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:24:43.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "c26d46ec-35bc-40ff-9b50-ebfa897f2162",
+            "title": "Session 005 - The Loss of a Friend",
+            "slug": "session-005---the-loss-of-a-friend-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-005---the-loss-of-a-friend-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:24:53.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "7b0ae21e-4241-404c-abbd-da6003e4f573",
+            "title": "Session 006 - The Medusa's Gaze",
+            "slug": "session-006---the-medusa-s-gaze-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-006---the-medusa-s-gaze-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:29:21.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0ffd7ff0-7144-4ba4-bce6-89834df8ab58",
+            "title": "Session 007 - The Electric Shock",
+            "slug": "session-007---the-electric-shock-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-007---the-electric-shock-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:29:45.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d4ef10e8-27ee-42b9-80c6-38a6f1bf4b88",
+            "title": "Session 008 - The Hag of Downfall",
+            "slug": "session-008---the-hag-of-downfall-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-008---the-hag-of-downfall-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:30:11.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "3676a986-e2eb-49ab-a3b2-3ca33d9e4a36",
+            "title": "Session 009 - The Blood Pact",
+            "slug": "session-009---the-blood-pact-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-009---the-blood-pact-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:30:16.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "23f6f2c9-e73b-4a49-b9fc-5bd6434663e7",
+            "title": "Session 010 - The Unicorn of Wayward Pool",
+            "slug": "session-010---the-unicorn-of-wayward-pool-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-010---the-unicorn-of-wayward-pool-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:05:14.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "b024b3fb-62c2-473a-be26-879e9439f64e",
+            "title": "Session 011 - The Knight and the Paladin",
+            "slug": "session-011---the-knight-and-the-paladin-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-011---the-knight-and-the-paladin-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:17:13.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "248a0de4-0617-4b43-aa48-76024994c3f9",
+            "title": "Session 012 - The Massacre of Loomlurch",
+            "slug": "session-012---the-massacre-of-loomlurch-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-012---the-massacre-of-loomlurch-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:42:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d15e4755-9d09-4a40-8ebd-df449eff716b",
+            "title": "Session 013 - The Return to Loomlurch",
+            "slug": "session-013---the-return-to-loomlurch-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-013---the-return-to-loomlurch-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:44:12.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "f693dfc8-f951-4718-aded-5309442a933f",
+            "title": "Session 014 - The Ironscale Hydra",
+            "slug": "session-014---the-ironscale-hydra-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-014---the-ironscale-hydra-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 00:56:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "49fd5784-51aa-40ad-b755-8b05f6bb2e0a",
+            "title": "Session 015 - The Mushroom Hunt",
+            "slug": "session-015---the-mushroom-hunt-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-015---the-mushroom-hunt-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:47:50.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "5820fe4d-596c-4964-8f32-d62c73e23975",
+            "title": "Session 016 - The Bridge Wedding",
+            "slug": "session-016---the-bridge-wedding-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-016---the-bridge-wedding-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:49:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "85664500-d475-4d03-bf98-6f54c0584d61",
+            "title": "Session 017 - The Accidental Visit",
+            "slug": "session-017---the-accidental-visit-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-017---the-accidental-visit-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:51:08.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "739953c4-6f87-403a-a7d0-e050c14fdc9e",
+            "title": "Session 018 - The Theatre Production",
+            "slug": "session-018---the-theatre-production-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-018---the-theatre-production-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:55:20.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "382d4ad6-daa3-4fea-8270-27347f2c1702",
+            "title": "Session 019 - The Wooden Masks",
+            "slug": "session-019---the-wooden-masks-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-019---the-wooden-masks-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:57:09.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9c33a8c4-7e52-4ec4-bb1d-b60777798025",
+            "title": "Session 020 - The Orrery of Tragedies",
+            "slug": "session-020---the-orrery-of-tragedies-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-020---the-orrery-of-tragedies-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-14 02:29:53.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d96ed9e0-06c5-4d19-8c9f-875e960a886f",
+            "title": "Talia Starfinder",
+            "slug": "talia-starfinder-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/talia-starfinder-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:36:31.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "5d3bbd2a-4064-4a0a-b519-2b2c19cd5c27",
+            "title": "Tarin Ganu-Maga",
+            "slug": "tarin-ganu-maga-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/tarin-ganu-maga-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:07:55.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "f2ffd83e-15a5-4e8c-9f5a-ca9e4bfea155",
+            "title": "Wirth",
+            "slug": "wirth-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/wirth-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:38:26.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/plot/558f3108-e120-499e-818f-4ad346e8017e/edit",
+    "scenes": null,
+    "themes": null,
+    "type": null,
+    "completionDate": null,
+    "exposition": null,
+    "conflict": null,
+    "risingaction": null,
+    "climax": null,
+    "fallingaction": null,
+    "resolution": null,
+    "goals": null,
+    "hooks": null,
+    "stakes": null,
+    "moralquandaries": null,
+    "crueltricks": null,
+    "redherrings": null,
+    "protagonists": null,
+    "allies": null,
+    "neutrals": null,
+    "competitors": null,
+    "adversaries": null,
+    "threats": null,
+    "locations": null,
+    "encounters": null,
+    "pastevents": null,
+    "ggmtype": null,
+    "ggmadventureobjective": null,
+    "ggmadventuretheme": null,
+    "ggmadventuretype": null,
+    "ggmadventurefocustype": null,
+    "ggmadventureadversarytype": null,
+    "ggmadventureopening": null,
+    "ggmadventurecoolness": null,
+    "ggmadventureexpectation": null,
+    "ggmadventuresenses": null,
+    "ggmadventurelearnings": null,
+    "ggmadventure1goal": null,
+    "ggmadventure1enemy": null,
+    "ggmadventure1situation": null,
+    "ggmadventure2setup": null,
+    "ggmadventure2attempt": null,
+    "ggmadventure3false": null,
+    "ggmadventure3showdown": null,
+    "ggmadventurenames": null,
+    "ggmadventurechanges": null,
+    "parent": null,
+    "reports": [
+        {
+            "id": "d7370fed-5453-4720-bc53-ab03e29998f0",
+            "title": "Session 001 - The Witchlight Carnival!",
+            "slug": "session-001---the-witchlight-carnival21-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-001---the-witchlight-carnival21-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:45:09.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "dd1a0da1-7938-4c58-8c23-94a7211b151b",
+            "title": "Session 002 - The Crowning of the Monarch",
+            "slug": "session-002---the-crowning-of-the-monarch-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-002---the-crowning-of-the-monarch-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:46:53.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "b04ccef9-c311-4789-b1fc-efea6947e137",
+            "title": "Session 003 - The Slanty Tower",
+            "slug": "session-003---the-slanty-tower-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-003---the-slanty-tower-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:23:45.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "88d2fd11-21c3-4ba0-8638-0290ed86e418",
+            "title": "Session 004 - The Missing Firbolg",
+            "slug": "session-004---the-missing-firbolg-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-004---the-missing-firbolg-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:24:43.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "c26d46ec-35bc-40ff-9b50-ebfa897f2162",
+            "title": "Session 005 - The Loss of a Friend",
+            "slug": "session-005---the-loss-of-a-friend-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-005---the-loss-of-a-friend-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:24:53.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "7b0ae21e-4241-404c-abbd-da6003e4f573",
+            "title": "Session 006 - The Medusa's Gaze",
+            "slug": "session-006---the-medusa-s-gaze-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-006---the-medusa-s-gaze-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:29:21.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0ffd7ff0-7144-4ba4-bce6-89834df8ab58",
+            "title": "Session 007 - The Electric Shock",
+            "slug": "session-007---the-electric-shock-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-007---the-electric-shock-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:29:45.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d4ef10e8-27ee-42b9-80c6-38a6f1bf4b88",
+            "title": "Session 008 - The Hag of Downfall",
+            "slug": "session-008---the-hag-of-downfall-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-008---the-hag-of-downfall-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:30:11.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "3676a986-e2eb-49ab-a3b2-3ca33d9e4a36",
+            "title": "Session 009 - The Blood Pact",
+            "slug": "session-009---the-blood-pact-article",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-009---the-blood-pact-article",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:30:16.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "23f6f2c9-e73b-4a49-b9fc-5bd6434663e7",
+            "title": "Session 010 - The Unicorn of Wayward Pool",
+            "slug": "session-010---the-unicorn-of-wayward-pool-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-010---the-unicorn-of-wayward-pool-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:05:14.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "b024b3fb-62c2-473a-be26-879e9439f64e",
+            "title": "Session 011 - The Knight and the Paladin",
+            "slug": "session-011---the-knight-and-the-paladin-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-011---the-knight-and-the-paladin-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:17:13.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "248a0de4-0617-4b43-aa48-76024994c3f9",
+            "title": "Session 012 - The Massacre of Loomlurch",
+            "slug": "session-012---the-massacre-of-loomlurch-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-012---the-massacre-of-loomlurch-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:42:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d15e4755-9d09-4a40-8ebd-df449eff716b",
+            "title": "Session 013 - The Return to Loomlurch",
+            "slug": "session-013---the-return-to-loomlurch-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-013---the-return-to-loomlurch-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:44:12.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "f693dfc8-f951-4718-aded-5309442a933f",
+            "title": "Session 014 - The Ironscale Hydra",
+            "slug": "session-014---the-ironscale-hydra-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-014---the-ironscale-hydra-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 00:56:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "49fd5784-51aa-40ad-b755-8b05f6bb2e0a",
+            "title": "Session 015 - The Mushroom Hunt",
+            "slug": "session-015---the-mushroom-hunt-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-015---the-mushroom-hunt-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:47:50.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "5820fe4d-596c-4964-8f32-d62c73e23975",
+            "title": "Session 016 - The Bridge Wedding",
+            "slug": "session-016---the-bridge-wedding-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-016---the-bridge-wedding-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:49:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "85664500-d475-4d03-bf98-6f54c0584d61",
+            "title": "Session 017 - The Accidental Visit",
+            "slug": "session-017---the-accidental-visit-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-017---the-accidental-visit-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:51:08.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "739953c4-6f87-403a-a7d0-e050c14fdc9e",
+            "title": "Session 018 - The Theatre Production",
+            "slug": "session-018---the-theatre-production-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-018---the-theatre-production-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:55:20.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "382d4ad6-daa3-4fea-8270-27347f2c1702",
+            "title": "Session 019 - The Wooden Masks",
+            "slug": "session-019---the-wooden-masks-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-019---the-wooden-masks-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 23:57:09.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9c33a8c4-7e52-4ec4-bb1d-b60777798025",
+            "title": "Session 020 - The Orrery of Tragedies",
+            "slug": "session-020---the-orrery-of-tragedies-report",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Report",
+            "icon": "fa-solid fa-clipboard",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/session-020---the-orrery-of-tragedies-report",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-14 02:29:53.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "relatedpeople": [
+        {
+            "id": "97eac951-7733-4ad2-b408-ddcac034708d",
+            "title": "Aldyth Tharnaerl",
+            "slug": "aldyth-tharnaerl-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/aldyth-tharnaerl-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:17:59.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9ea5d0a7-e904-4d11-a983-ec879a32a3b7",
+            "title": "Bahr Reigh",
+            "slug": "bahr-reigh-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/bahr-reigh-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:01:07.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "96bd9602-149e-432e-b98d-e78caf0deb8c",
+            "title": "Kiara Hollow",
+            "slug": "kiara-hollow-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/kiara-hollow-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:26:16.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "4ed33268-d880-4a7d-ab71-cd87facc601d",
+            "title": "Klej",
+            "slug": "klej-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/klej-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:12:57.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9be05c6a-9bd9-492d-8a20-9744b6e37cce",
+            "title": "Lilygrove Thornwhisper",
+            "slug": "lilygrove-thornwhisper-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/lilygrove-thornwhisper-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:28:44.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d4f75940-24ee-4ffd-b032-b6bbeaeeca7f",
+            "title": "Meela Puddlemuck",
+            "slug": "meela-puddlemuck-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/meela-puddlemuck-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:10:08.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "562b9e75-51f4-44e1-95ab-2ecde2e543ed",
+            "title": "Mordren Pekka",
+            "slug": "mordren-pekka-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/mordren-pekka-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:15:47.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "06a6fc94-6fce-4149-8119-9ebfc0bdc7be",
+            "title": "Myrtle Shellback",
+            "slug": "myrtle-shellback-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/myrtle-shellback-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:30:45.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9ad7e490-b02e-41ca-9ea6-894588afd932",
+            "title": "Nishara Mistwood",
+            "slug": "nishara-mistwood-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/nishara-mistwood-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 06:46:56.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "70d17c40-374c-4450-bd38-32f391bdbd41",
+            "title": "Pippa Quickstep",
+            "slug": "pippa-quickstep-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/pippa-quickstep-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:04:23.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d96ed9e0-06c5-4d19-8c9f-875e960a886f",
+            "title": "Talia Starfinder",
+            "slug": "talia-starfinder-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/talia-starfinder-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:36:31.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "5d3bbd2a-4064-4a0a-b519-2b2c19cd5c27",
+            "title": "Tarin Ganu-Maga",
+            "slug": "tarin-ganu-maga-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/tarin-ganu-maga-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:07:55.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "f2ffd83e-15a5-4e8c-9f5a-ca9e4bfea155",
+            "title": "Wirth",
+            "slug": "wirth-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/wirth-person",
+            "subscribergroups": [],
+            "folderId": "-1",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 14:38:26.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "isEditable": true,
+    "success": true
+}
