@@ -1,0 +1,19 @@
+{
+    "id": 1532332,
+    "title": "Cap’n Kraken",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Block",
+    "icon": "fa-solid fa-cube",
+    "url": "https://www.worldanvil.com/sheet/1532332/view",
+    "subscribergroups": [],
+    "folderId": 37346,
+    "tags": "",
+    "updateDate": {
+        "date": "2025-03-16 07:23:03.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    }
+}

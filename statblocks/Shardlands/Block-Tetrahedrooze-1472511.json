@@ -1,0 +1,19 @@
+{
+    "id": 1472511,
+    "title": "Tetrahedrooze",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Block",
+    "icon": "fa-solid fa-cube",
+    "url": "https://www.worldanvil.com/sheet/1472511/view",
+    "subscribergroups": [],
+    "folderId": 37345,
+    "tags": "",
+    "updateDate": {
+        "date": "2025-03-16 05:36:25.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": "e0e0faea-8dac-41cf-b544-4079b9b088b9",
+    "title": "My First Notebook",
+    "slug": null,
+    "state": null,
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Notebook",
+    "icon": "fa-solid fa-notebook",
+    "url": "https://www.worldanvil.com/notebook/notebook/e0e0faea-8dac-41cf-b544-4079b9b088b9/load",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "creationDate": {
+        "date": "2024-10-11 11:49:03.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "color": null,
+    "weight": 1,
+    "isSelected": 0,
+    "editor": null,
+    "isEditable": true,
+    "success": true
+}

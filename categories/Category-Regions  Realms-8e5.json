@@ -1,0 +1,211 @@
+{
+    "id": "a48bd8e5-996e-4f6d-9ff0-4eb342d4fe46",
+    "title": "Regions & Realms",
+    "slug": "regions-26-realms-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/c/regions-26-realms-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": false,
+    "isCollapsed": false,
+    "position": null,
+    "creationDate": {
+        "date": "2024-10-06 11:07:38.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 203,
+    "custom1": "[h2][center]Agela Gazetteer[/center][/h2]\r\nAmong Dewan’s many continents lie Agela, a diverse land shaped by the rise and fall of titanic powers. For millennia, this world has been molded by the hands of giants, dragons, and mortal alike, with each era leaving its mark on the land and its people.\r\n\r\nThe known regions of Agela include: @[Northlands](location:ac2a8f52-5f7c-447b-8ae8-4a2e07bf2922)‌, @[Riverlands](location:61ed9c72-bf19-41c0-b9e2-df60eaacbf88)‌, @[The Reach](location:8ed1b141-ea07-4c58-baca-b2c2c81c70f0)‌, and @[Southlands](location:1b3ec7e3-4861-4b37-8ce1-1ee197740107)‌.\r\n\r\n[left][b]Riverlands: [/b]@[Abrell Lowlands](location:1aca00a4-b560-4b28-b350-3cad3a9b999b) l @[Abrell Uplands](location:89a3e0d5-e739-4f95-9b06-9e080eca0d69) l @[Dunshard Plains](location:6de58655-bd3a-4b8d-a783-50365016ac55) l @[The Greenbelt](location:f49af528-f772-4b41-8671-49b0bdc42215) l @[Niverrath Slough](location:02d5ea11-8d7e-4a4f-b589-fdd3cf59724b) l @[Peneree Hinterlands](location:67838b27-c7f2-42cb-8730-92358d448b5f) l @[Tors of Levenies](location:02a54cf1-2528-41cc-a463-7e395d4ba2f2)[br]\r\n[b]Northlands: [/b]@[The Scorching Highlands](location:793846af-6044-4631-a933-2e85300b464c) l @[Osirion Wastes](location:78e8189f-bd2a-4a12-bdb8-8b21ab81f9e5)[br]\r\n[b]Southlands:[/b] @[The Rahgar Glacier](location:696d27a1-3a65-48d4-a938-1699395d3d45) l @[Wyrmdoom Crags](location:6fbe573e-6633-4c88-9b73-67138c74fb88) l @[Targos Vale](location:71089906-5c31-4342-8dac-9ca16b51e5cf) l @[Reghed Tribelands](location:7d7ae6e1-d647-48e8-87f2-ea3ab51f5032) l @[South Redrun](location:6743522e-20c5-42ac-b285-fc17bc9fbff8) l @[North Redrun](location:81a76930-f17b-4b7d-b7c5-27e6aed4104f) l @[Old Ascendant](location:07853550-79a9-458f-8719-3ff6ce74d135) l @[Frostheim](location:80e3b49b-648c-416f-a4b4-3c6a05ad399c) l @[The Frigid Coast](location:bef97cd3-118c-477e-8d8a-47f0a5bd5d22) l @[The South Sea](location:2de19afb-8a61-4277-92cb-055b1175898b) l @[Bladescar Ridge](location:2ec2ad4b-9237-460e-b33d-1e59902da4b1)[br]\r\n[b]The Reach:[/b][/left]",
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\"],\"catCol3\":[\"custom3\"],\"catCol4\":[\"custom4\"],\"catCol5\":[],\"bin\":[\"toc\",\"timelines\",\"maps\",\"custom5\",\"articleBlocks\"]}",
+    "pagecover": null,
+    "bookcover": {
+        "id": 6473442,
+        "title": "Regions & Realms.jpg",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/25c82226-f40e-4866-b883-0b0f87436174/uploads/images/c2a51b052e973327c1e4fb192d40ffe8.jpeg",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": null,
+        "updateDate": {
+            "date": "2025-03-17 12:21:50.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "defaultarticlecover": null,
+    "parent": null,
+    "world": {
+        "id": "c1ac2421-363b-49d0-b5a1-fd68f279c9cc",
+        "title": "The Eternal Wheel",
+        "slug": "the-eternal-wheel-aloisihaelgor",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor",
+        "subscribergroups": [
+            {
+                "id": "082b6104-8c62-493f-bbbe-28d4628f4674",
+                "title": "Adventurers of Beast & Blade: An Eternal Wheel Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "98235c93-8525-4f57-82e5-aaca258732fb",
+                "title": "Adventurers of Kingmaker: An Eternal Wheel Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b8922d93-93dd-4a03-ab33-982546bd4162",
+                "title": "Adventurers of Test Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "e150fee5-0680-456b-9b76-24fe9cb7fa69",
+                "title": "Adventurers of The Blood & Sand Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "a071996d-d998-4c28-87ef-b4134629dbf0",
+                "title": "Adventurers of The Southlands Saga: An Age of Heroes Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "3b462173-b487-49e7-a327-92e416fa5546",
+                "title": "Beast & Blade: An Eternal Wheel Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c5af5b45-d93e-4c9b-aac4-47297b0e73be",
+                "title": "Kingmaker: An Eternal Wheel Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "01caf088-43de-48fa-8082-2f5ca7737304",
+                "title": "misskelmc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b094fd09-73c1-46f8-a968-e4a37c9d7a25",
+                "title": "PrinceAloisi",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "22c2e2fa-d1ce-49d9-a418-b603c1f15ab3",
+                "title": "sarahjmcc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "1e57bbd4-9677-49d5-83a6-d759c7818125",
+                "title": "Test Campaign Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "5d812551-a5df-4781-b24d-86003f40fc87",
+                "title": "The Blood & Sand Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "fe234d31-2c14-429c-a174-2a5c86a0465b",
+                "title": "The Southlands Saga: An Age of Heroes Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-04-23 10:04:31.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "editURL": "https://www.worldanvil.com/world/category/a48bd8e5-996e-4f6d-9ff0-4eb342d4fe46/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

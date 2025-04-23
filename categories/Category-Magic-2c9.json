@@ -1,0 +1,365 @@
+{
+    "id": "2d7f82c9-2380-4a2f-a9f3-0f6d00bbb777",
+    "title": "Magic",
+    "slug": "magic-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/c/magic-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": false,
+    "isCollapsed": false,
+    "position": null,
+    "creationDate": {
+        "date": "2024-10-06 11:07:19.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 62,
+    "custom1": "Magic in Dewan is an essential force that shapes the world and binds its very fabric together. This force, known as The Weave, is a mystical energy that connects all things, permeating every aspect of existence. The Weave serves as the medium through which magic flows, allowing spellcasters of various traditions to draw upon its power to create extraordinary effects.\r\n\r\nWhile magic was once the domain of titanic beings and deities, the Age of Heroes saw its proliferation among mortals. As kingdoms rose and civilizations flourished, so too did the understanding of how to manipulate The Weave. Magic became both a tool for survival and a means of exploring the deeper mysteries of the cosmos.\r\n\r\nThe Types of Magic are:\r\n\r\n[center]@[Biomancy](technology:4f13b07d-8b6c-4b9f-853d-e5842334e9ab) l @[Sandseering](law:cd96b405-9923-4f42-8133-291e2fc2637c) [/center]\r\n\r\n[center][h2]Nature of the Weave[/h2][/center]\r\n\r\nThe Weave itself is an invisible, ever-present network of energy that flows through everything in the world. It is a living entity of sorts, constantly shifting and adapting as it responds to the world’s needs and the actions of spellcasters.\r\n\r\nWhile mortals cannot see The Weave directly, those attuned to magic can sense it, feeling the currents of power that flow through the world.\r\n\r\n[center][h2]Magical Items & Artifacts[/h2][/center]\r\n\r\nThe crafting of magical items involves a delicate manipulation of The Weave. Artisans and enchanters must first attune themselves to the Weave’s energy, then harness and bind it into physical objects.\r\n\r\nSimple magical items are relatively common, but artifacts—relics of immense power—are much rarer. These artifacts often have a deeper connection to The Weave, allowing them to manipulate its threads in unique and potent ways.\r\n\r\nSome ancient artifacts from the Age of Titans still exist, crafted by dragons and giants who wielded primal forces with unparalleled mastery. Others are divine gifts, created by the gods themselves and imbued with the power of the @[The Godshores](location:4ba286d9-fe77-4cfc-b393-201a323fdb23).\r\n\r\nIn modern times, skilled mages and artificers can forge new magical items, but the process remains complex and costly.\r\n\r\n[center][h2]Magic & Society[/h2][/center]\r\n\r\nMagic is woven into the very fabric of society in Dewan. While only a fraction of the population may be spellcasters, the influence of magic is felt in every aspect of life—from enchanted tools and transportation to healing and defense.\r\n\r\nMagical academies, temples, and druid circles are the centers of learning and power, each one dedicated to a different aspect of The Weave. These institutions often play a major role in shaping the future of civilizations and protecting the world from threats both magical and mundane.\r\n\r\nWhile magic offers great potential, it also presents great dangers. Misuse of The Weave can lead to catastrophic consequences, as evidenced by the events of the Age of Titans. Therefore, in many places, magic is carefully regulated or monitored, particularly arcane and divine magic, which can easily shift the balance of power.\r\n\r\n[center][h2]Types of Magic Users[/h2][/center]\r\n\r\nMagic in Dewan flows through The Weave, a mystical force that connects all things, and spellcasters across the world tap into this power in different ways.\r\nThere are three main types of magic users in the realms, each interacting with The Weave uniquely:\r\n\r\n[b]Arcane Spellcasters[/b]\r\n\r\nArcane casters, such as wizards, sorcerers, warlocks, and bards, manipulate The Weave directly to cast their spells. They possess an intrinsic or learned understanding of the magical threads that bind reality.\r\n\r\n[ul]\r\n[li]Wizards are masters of arcane knowledge, manipulating The Weave through careful study and precise incantations.[/li]\r\n[/ul]\r\n[ul]\r\n[li]Sorcerers are born with a natural connection to The Weave, drawing upon innate power rather than learned formulas.[/li]\r\n[li]Warlocks forge pacts with powerful entities, granting them unique ways to access and manipulate The Weave.[/li]\r\n[li]Bards use music, poetry, and storytelling to weave magic, channeling the emotional and energetic resonance of The Weave.[/li]\r\n[/ul]\r\n\r\n[b]Divine Spellcasters[/b]\r\n\r\nDivine casters, including clerics and paladins, draw their magic from a connection to the gods, filtering their spells through The Weave via divine intervention.\r\n\r\n[ul]\r\n[li]Clerics channel divine energy granted by their deities, using The Weave as a conduit for miracles and blessings.[/li]\r\n[li]Paladins, through their oaths and divine commitment, summon powers that smite foes and protect allies, their magic fueled by their devotion and channeled through The Weave.[/li]\r\n[/ul]\r\n\r\n[b]Primal Spellcasters[/b]\r\n\r\nPrimal casters, such as druids, rangers, barbarians, and monks, interact with the natural forces of The Weave, channeling the magic of nature, the elements, and their physical prowess.\r\n\r\n[ul]\r\n[li]Druids are deeply attuned to nature and its elemental forces, using The Weave to control plants, animals, and weather.[/li]\r\n[li]Rangers tap into the primal aspects of The Weave to enhance their survival skills and tracking abilities, blending martial prowess with magic.[/li]\r\n[li]Barbarians and monks interact with The Weave instinctively, focusing on physical strength, speed, and endurance, often channeling their connection through rituals, totems, or ki.[/li]\r\n[/ul]",
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\"],\"catCol3\":[\"custom3\"],\"catCol4\":[\"custom4\"],\"catCol5\":[\"custom5\"],\"bin\":[\"articleBlocks\",\"maps\",\"toc\",\"timelines\"]}",
+    "pagecover": null,
+    "bookcover": {
+        "id": 6473424,
+        "title": "Magic",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/25c82226-f40e-4866-b883-0b0f87436174/uploads/images/3bdce830f68156be7878af2489a3da7a.jpeg",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": null,
+        "updateDate": {
+            "date": "2025-03-17 12:15:54.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "defaultarticlecover": null,
+    "parent": null,
+    "world": {
+        "id": "c1ac2421-363b-49d0-b5a1-fd68f279c9cc",
+        "title": "The Eternal Wheel",
+        "slug": "the-eternal-wheel-aloisihaelgor",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor",
+        "subscribergroups": [
+            {
+                "id": "082b6104-8c62-493f-bbbe-28d4628f4674",
+                "title": "Adventurers of Beast & Blade: An Eternal Wheel Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "98235c93-8525-4f57-82e5-aaca258732fb",
+                "title": "Adventurers of Kingmaker: An Eternal Wheel Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b8922d93-93dd-4a03-ab33-982546bd4162",
+                "title": "Adventurers of Test Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "e150fee5-0680-456b-9b76-24fe9cb7fa69",
+                "title": "Adventurers of The Blood & Sand Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "a071996d-d998-4c28-87ef-b4134629dbf0",
+                "title": "Adventurers of The Southlands Saga: An Age of Heroes Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "3b462173-b487-49e7-a327-92e416fa5546",
+                "title": "Beast & Blade: An Eternal Wheel Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c5af5b45-d93e-4c9b-aac4-47297b0e73be",
+                "title": "Kingmaker: An Eternal Wheel Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "01caf088-43de-48fa-8082-2f5ca7737304",
+                "title": "misskelmc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b094fd09-73c1-46f8-a968-e4a37c9d7a25",
+                "title": "PrinceAloisi",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "22c2e2fa-d1ce-49d9-a418-b603c1f15ab3",
+                "title": "sarahjmcc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "1e57bbd4-9677-49d5-83a6-d759c7818125",
+                "title": "Test Campaign Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "5d812551-a5df-4781-b24d-86003f40fc87",
+                "title": "The Blood & Sand Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "fe234d31-2c14-429c-a174-2a5c86a0465b",
+                "title": "The Southlands Saga: An Age of Heroes Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-04-23 10:04:31.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "8d28bc78-896f-4f29-a34a-b44eb6925c45",
+            "title": "Barbarian",
+            "slug": "barbarian-profession",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/barbarian-profession",
+            "subscribergroups": [],
+            "folderId": "2d7f82c9-2380-4a2f-a9f3-0f6d00bbb777",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:54:01.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d9074e5a-f72e-49d0-8480-5e60938812a0",
+            "title": "Bard",
+            "slug": "bard-profession",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/bard-profession",
+            "subscribergroups": [],
+            "folderId": "2d7f82c9-2380-4a2f-a9f3-0f6d00bbb777",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:53:49.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "4f13b07d-8b6c-4b9f-853d-e5842334e9ab",
+            "title": "Biomancy",
+            "slug": "biomancy-technology",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Technology",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/biomancy-technology",
+            "subscribergroups": [],
+            "folderId": "2d7f82c9-2380-4a2f-a9f3-0f6d00bbb777",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:28:39.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "741a7409-fffe-4b59-9508-f2b0ab555393",
+            "title": "Cleric",
+            "slug": "cleric-profession",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/cleric-profession",
+            "subscribergroups": [],
+            "folderId": "2d7f82c9-2380-4a2f-a9f3-0f6d00bbb777",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:53:33.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "316d3e5d-7d0c-480b-9611-37e6fa12ca87",
+            "title": "Druid",
+            "slug": "druid-profession",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/druid-profession",
+            "subscribergroups": [],
+            "folderId": "2d7f82c9-2380-4a2f-a9f3-0f6d00bbb777",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:53:20.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "e67300ee-a21a-4a32-90e3-416c9cc71ff5",
+            "title": "Fighter",
+            "slug": "fighter-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/fighter-profession",
+            "subscribergroups": [],
+            "folderId": "2d7f82c9-2380-4a2f-a9f3-0f6d00bbb777",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-21 11:37:18.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "cd96b405-9923-4f42-8133-291e2fc2637c",
+            "title": "Sandseering",
+            "slug": "sandseering-law",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Law",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/sandseering-law",
+            "subscribergroups": [],
+            "folderId": "2d7f82c9-2380-4a2f-a9f3-0f6d00bbb777",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-21 05:04:33.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "7146ba8a-9d30-48db-8df1-435d6ce8312b",
+            "title": "Wizard",
+            "slug": "wizard-profession",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Profession",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/wizard-profession",
+            "subscribergroups": [],
+            "folderId": "2d7f82c9-2380-4a2f-a9f3-0f6d00bbb777",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-21 11:37:28.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/2d7f82c9-2380-4a2f-a9f3-0f6d00bbb777/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

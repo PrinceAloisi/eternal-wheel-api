@@ -1,0 +1,210 @@
+{
+    "id": "261fcafd-10d5-403b-b777-936892831af1",
+    "title": "Birth of Ioseph Sellemus",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "HistoricalEntry",
+    "icon": "fa-solid fa-calendar-lines-pen",
+    "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/h/261fcafd-10d5-403b-b777-936892831af1",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": {
+        "date": "2024-11-06 11:28:20.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "significance": 4,
+    "year": "1775",
+    "month": 11,
+    "day": 1,
+    "hour": null,
+    "minute": null,
+    "endingYear": null,
+    "endingMonth": null,
+    "endingDay": null,
+    "endingHour": null,
+    "endingMinute": null,
+    "lane": "{\"322df7a1-45d7-4965-a301-dca06d49dd1a\":5}",
+    "backgroundColor": "#009ce0",
+    "category": {
+        "id": "d6c9f392-5cdb-4101-aaba-d466fe6c349c",
+        "title": "Life, Birth",
+        "slug": null,
+        "state": null,
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "HistoricalEntryCategory",
+        "icon": "ra ra-3x ra-hearts",
+        "url": null,
+        "subscribergroups": [],
+        "folderId": null,
+        "tags": null,
+        "updateDate": null
+    },
+    "content": "Ioseph Sellemus, heir to the throne of Orrendale is born in the capital, Caranthor.",
+    "fullcontent": null,
+    "displayDateName": null,
+    "creationDate": {
+        "date": "2024-10-08 08:05:10.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "meta": null,
+    "likes": null,
+    "world": {
+        "id": "c1ac2421-363b-49d0-b5a1-fd68f279c9cc",
+        "title": "The Eternal Wheel",
+        "slug": "the-eternal-wheel-aloisihaelgor",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor",
+        "subscribergroups": [
+            {
+                "id": "082b6104-8c62-493f-bbbe-28d4628f4674",
+                "title": "Adventurers of Beast & Blade: An Eternal Wheel Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "98235c93-8525-4f57-82e5-aaca258732fb",
+                "title": "Adventurers of Kingmaker: An Eternal Wheel Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b8922d93-93dd-4a03-ab33-982546bd4162",
+                "title": "Adventurers of Test Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "e150fee5-0680-456b-9b76-24fe9cb7fa69",
+                "title": "Adventurers of The Blood & Sand Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "a071996d-d998-4c28-87ef-b4134629dbf0",
+                "title": "Adventurers of The Southlands Saga: An Age of Heroes Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "3b462173-b487-49e7-a327-92e416fa5546",
+                "title": "Beast & Blade: An Eternal Wheel Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c5af5b45-d93e-4c9b-aac4-47297b0e73be",
+                "title": "Kingmaker: An Eternal Wheel Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "01caf088-43de-48fa-8082-2f5ca7737304",
+                "title": "misskelmc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b094fd09-73c1-46f8-a968-e4a37c9d7a25",
+                "title": "PrinceAloisi",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "22c2e2fa-d1ce-49d9-a418-b603c1f15ab3",
+                "title": "sarahjmcc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "1e57bbd4-9677-49d5-83a6-d759c7818125",
+                "title": "Test Campaign Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "5d812551-a5df-4781-b24d-86003f40fc87",
+                "title": "The Blood & Sand Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "fe234d31-2c14-429c-a174-2a5c86a0465b",
+                "title": "The Southlands Saga: An Age of Heroes Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-04-23 10:04:31.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "displayRange": true,
+    "isEditable": true,
+    "success": true
+}

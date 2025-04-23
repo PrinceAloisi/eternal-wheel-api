@@ -1,0 +1,19 @@
+{
+    "id": "dd43300d-7bc0-483c-9e0b-1778fd1ae773",
+    "title": "1800 CE - Factions - Early Age of Heroes",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": false,
+    "position": null,
+    "isEditable": true,
+    "success": true
+}

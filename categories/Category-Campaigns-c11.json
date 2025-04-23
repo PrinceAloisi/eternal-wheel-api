@@ -1,0 +1,534 @@
+{
+    "id": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+    "title": "Campaigns",
+    "slug": "campaigns-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/c/campaigns-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": "[br]\r\n[category:26a16639-7372-495f-8c9c-8715c5622cc8]",
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": false,
+    "isCollapsed": false,
+    "position": null,
+    "creationDate": {
+        "date": "2024-10-06 13:19:48.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 476,
+    "custom1": "[url:https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/blood-26-sand-saga-plot][img:6473602|nolink][/url]\r\n\r\n[url:https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-southlands-saga-plot][img:6473603|nolink][/url]\r\n\r\n[url:https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-shardlands-saga-plot][img:6473604|nolink][/url]",
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\"],\"catCol3\":[\"custom3\"],\"catCol4\":[\"custom4\"],\"catCol5\":[\"custom5\"],\"bin\":[\"timelines\",\"maps\",\"articleBlocks\",\"toc\"]}",
+    "pagecover": null,
+    "bookcover": {
+        "id": 6473440,
+        "title": "Campaigns.jpg",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/25c82226-f40e-4866-b883-0b0f87436174/uploads/images/30a0d21a3ae199779d6f47f97553da8b.jpeg",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": null,
+        "updateDate": {
+            "date": "2025-03-17 12:21:24.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "defaultarticlecover": null,
+    "parent": null,
+    "world": {
+        "id": "c1ac2421-363b-49d0-b5a1-fd68f279c9cc",
+        "title": "The Eternal Wheel",
+        "slug": "the-eternal-wheel-aloisihaelgor",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor",
+        "subscribergroups": [
+            {
+                "id": "082b6104-8c62-493f-bbbe-28d4628f4674",
+                "title": "Adventurers of Beast & Blade: An Eternal Wheel Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "98235c93-8525-4f57-82e5-aaca258732fb",
+                "title": "Adventurers of Kingmaker: An Eternal Wheel Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b8922d93-93dd-4a03-ab33-982546bd4162",
+                "title": "Adventurers of Test Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "e150fee5-0680-456b-9b76-24fe9cb7fa69",
+                "title": "Adventurers of The Blood & Sand Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "a071996d-d998-4c28-87ef-b4134629dbf0",
+                "title": "Adventurers of The Southlands Saga: An Age of Heroes Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "3b462173-b487-49e7-a327-92e416fa5546",
+                "title": "Beast & Blade: An Eternal Wheel Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c5af5b45-d93e-4c9b-aac4-47297b0e73be",
+                "title": "Kingmaker: An Eternal Wheel Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "01caf088-43de-48fa-8082-2f5ca7737304",
+                "title": "misskelmc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b094fd09-73c1-46f8-a968-e4a37c9d7a25",
+                "title": "PrinceAloisi",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "22c2e2fa-d1ce-49d9-a418-b603c1f15ab3",
+                "title": "sarahjmcc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "1e57bbd4-9677-49d5-83a6-d759c7818125",
+                "title": "Test Campaign Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "5d812551-a5df-4781-b24d-86003f40fc87",
+                "title": "The Blood & Sand Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "fe234d31-2c14-429c-a174-2a5c86a0465b",
+                "title": "The Southlands Saga: An Age of Heroes Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-04-23 10:04:31.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "children": [
+        {
+            "id": "26a16639-7372-495f-8c9c-8715c5622cc8",
+            "title": "Non-Canon Campaigns",
+            "slug": "non-canon-campaigns-category",
+            "state": "public",
+            "isWip": null,
+            "isDraft": null,
+            "entityClass": "Category",
+            "icon": "fa-solid fa-folder",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/c/non-canon-campaigns-category",
+            "subscribergroups": [],
+            "folderId": null,
+            "tags": null,
+            "updateDate": null
+        }
+    ],
+    "articles": [
+        {
+            "id": "141b45ce-c776-497d-a16e-fdfc906504f3",
+            "title": "Blood & Sand Saga",
+            "slug": "blood-26-sand-saga-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/blood-26-sand-saga-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-04-18 14:56:08.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9e81acf1-0d0f-40ca-ac3e-688b1c1266c3",
+            "title": "Curse of Strahd",
+            "slug": "curse-of-strahd-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/curse-of-strahd-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-16 12:23:32.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "7408a196-fd56-4e41-8a8d-e78d5b8b895d",
+            "title": "Descent into Avernus",
+            "slug": "descent-into-avernus-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/descent-into-avernus-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 01:31:40.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "22cda4d6-9a84-4d65-a735-ba4d8e21516c",
+            "title": "Fifty Shades of Fey",
+            "slug": "fifty-shades-of-fey-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/fifty-shades-of-fey-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 06:29:58.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "fbb7c810-6802-4808-9589-7305e277d6c6",
+            "title": "Ghosts of Saltmarsh",
+            "slug": "ghosts-of-saltmarsh-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/ghosts-of-saltmarsh-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 08:16:05.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "724c853c-204a-474c-9eec-1af8b0932c47",
+            "title": "Hero of the Tenth District",
+            "slug": "hero-of-the-tenth-district-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/hero-of-the-tenth-district-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 12:34:35.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "165be1eb-6bcd-4b40-ab0f-3d4d74713cd5",
+            "title": "Lost Mine of Phandelver",
+            "slug": "lost-mine-of-phandelver-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/lost-mine-of-phandelver-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 00:06:44.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "46649f0f-4aaa-49fd-836a-2a2dd2b471fe",
+            "title": "Sagas of Ashos",
+            "slug": "sagas-of-ashos-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/sagas-of-ashos-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 07:37:02.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "eb89052f-4713-4a03-9c5f-f27cc0426fc8",
+            "title": "Strixhaven Mysteries",
+            "slug": "strixhaven-mysteries-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/strixhaven-mysteries-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 09:05:52.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "d365d080-b67f-4f18-a317-4550125e2bb5",
+            "title": "The Lich-Queen's Begotten",
+            "slug": "the-lich-queen-s-begotten-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-lich-queen-s-begotten-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 06:45:34.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "91ef1b1e-e86b-4081-9ec8-3105f5ead85e",
+            "title": "The Shardlands Saga",
+            "slug": "the-shardlands-saga-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-shardlands-saga-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2025-03-17 00:47:38.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "037d9ab8-9c01-4d19-965d-8012ebb3f0c1",
+            "title": "The Southlands Saga",
+            "slug": "the-southlands-saga-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-southlands-saga-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-19 12:43:02.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "558f3108-e120-499e-818f-4ad346e8017e",
+            "title": "The Wild Beyond the Witchlight",
+            "slug": "the-wild-beyond-the-witchlight-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-wild-beyond-the-witchlight-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 00:04:28.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "e6ae7372-f506-401f-a361-5af9f3377916",
+            "title": "The Wolves of Langston",
+            "slug": "the-wolves-of-langston-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-wolves-of-langston-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 01:12:18.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "928ce3b7-a190-4bf4-bb58-38f631069449",
+            "title": "Twins of Destiny",
+            "slug": "twins-of-destiny-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/twins-of-destiny-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-09 12:46:22.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "3fbd26c4-67db-4f9f-8573-a80eae157c05",
+            "title": "Tyranny of Shadows",
+            "slug": "tyranny-of-shadows-plot",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Plot",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/tyranny-of-shadows-plot",
+            "subscribergroups": [],
+            "folderId": "c8ccec11-0f8b-4ea3-985d-6d49c1bf663f",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-10 04:34:10.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/c8ccec11-0f8b-4ea3-985d-6d49c1bf663f/edit",
+    "parsedDescription": "<br>\n<a href=\"/w/the-eternal-wheel-aloisihaelgor/c/non-canon-campaigns-category\">Non-Canon Campaigns</a><span  class=\"world-editor-link\"> <a href=\"/world/category/26a16639-7372-495f-8c9c-8715c5622cc8/edit\" class=\"btn btn-xs btn-default btn-opaque \"><i class=\"fa fa-pencil\"></i></a></span>",
+    "isEditable": true,
+    "success": true
+}

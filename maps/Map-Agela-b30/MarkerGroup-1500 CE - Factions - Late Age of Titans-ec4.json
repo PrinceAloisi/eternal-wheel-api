@@ -1,0 +1,19 @@
+{
+    "id": "6002aec4-1a48-41d3-8385-8b029f27cc06",
+    "title": "1500 CE - Factions - Late Age of Titans",
+    "slug": null,
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "MarkerGroup",
+    "icon": "fa-solid fa-map-location-dot",
+    "url": null,
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "activeOnLoad": false,
+    "position": null,
+    "isEditable": true,
+    "success": true
+}

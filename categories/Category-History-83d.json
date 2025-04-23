@@ -1,0 +1,289 @@
+{
+    "id": "a3fc283d-3010-4b73-8e49-df12003cc533",
+    "title": "History",
+    "slug": "history-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/c/history-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": false,
+    "isCollapsed": false,
+    "position": null,
+    "creationDate": {
+        "date": "2024-10-06 11:06:32.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 152,
+    "custom1": "Dewan is a young world, its history still in the process of unfolding. While much of its past remains to be explored, the following timeline provides an overview of the key eras that have shaped the world as it stands today.\r\n\r\nFrom its creation by cosmic forces to the rise of mortal civilization, Dewan’s history is marked by the influence of titanic beings, divine intervention, and the indomitable spirit of mortals.\r\n\r\n[timeline:322df7a1-45d7-4965-a301-dca06d49dd1a]\r\n\r\n[h2][center]Age of Creation[/center][/h2]\r\n\r\nThe Age of Creation began with the shaping of the universe by the Eternals, who formed the natural world and the planes of existence from the energies of the Old World. With these foundations laid, the Eternals introduced elemental forces, and in a final act, created Time itself.\r\n\r\nFrom Time, the first Greater Deities, Dragons, and Giants were born, setting the stage for the future of the cosmos. After their work was done, the Eternals retreated to Lut’s Tavern, leaving the world to unfold under the care of their creations.\r\n\r\nIn time, the gods birthed the first mortal species – elves, dwarves, gnomes, halflings, orcs, and humans – charging them with the stewardship of the world. As these early mortals flourished and formed the first small settlements, new gods emerged, born from their beliefs and dreams.\r\n\r\nHowever, after several centuries, the gods chose to withdraw their direct influence from the world. They created The Godshores as their divine realms and left the world in the hands of their mortal creations, though they continued to provide power to their clerics and champions.\r\n\r\n[center][h2]Age of Titans[/h2][/center]\r\n\r\nThe Age of Titans saw the rise of powerful beings—dragons and giants—who not only claimed dominion over mortals but also silenced the gods themselves. Through an arcane pact, the @[Scales of Sekhem](organization:e41b6f08-b19a-4a5c-9718-287ea0febe64) and the @[Eldfell Konungr](organization:8bf43d21-c556-47fc-91dd-eea4d5076ca0) wove a potent magical seal that severed the connection between Dewan and the Godshores. This barrier rendered the gods powerless to intervene, leaving mortals to suffer under the titanic rule of dragons and giants. These titans carved out vast territories and shaped the land beneath them, their reign unchallenged by divine or mortal forces.\r\n\r\nFor centuries, the giants, masters of earth and storm, and the dragons, wielders of immense arcane power, coexisted in an uneasy balance until conflict erupted in what became known as the War of Sky and Scale. Their battles reshaped continents, driving mortals into servitude or hiding.\r\n\r\nHowever, the tide began to turn with the birth of new species, each infused with the bloodlines of their divine or titanic ancestors—tieflings, aasimar, dragonborn, and goliaths. The aasimar, in particular, carried a spark of divine power that weakened the titanic barrier, rekindling the gods’ influence in small but significant ways. Empowered by divine magic and ancient artifacts, these mortal heroes rose in rebellion against their titanic overlords.\r\n\r\nOver the course of centuries, these heroes fought relentlessly, undermining the reign of the titans. The Eldfell Konungr and the Scales of Sekhem were eventually driven into deep slumber, their power waning, and the Age of Titans came to a close. This marked the beginning of a new era—the rise of mortal civilization and the slow resurgence of divine influence.\r\n\r\n[center][h2]Age of Heroes[/h2][/center]\r\n\r\nWith the defeat of the titans, the Age of Heroes began—a time of rebuilding and expansion. Mortal civilizations flourished as small kingdoms, city-states, and tribes emerged from the ruins left by their former titanic rulers. Heroes rose to reclaim lost lands, explore ancient ruins, and defend their people from lingering threats.\r\n\r\nThe gods, still weakened by the titans' magical barrier, returned cautiously. Instead of fully manifesting, they acted through avatars—mortal vessels imbued with fragments of their power. These avatars offered guidance, while divine omens and visions rekindled faith among mortals. Though distant, the gods began to subtly shape the world through their champions and clerics.\r\n\r\nThis age saw the rise of knowledge and the rebuilding of divine connections, with mortals exploring both magic and faith. However, new challenges emerged as rival kingdoms and dark forces vied for control in a world still haunted by the titanic past. The Age of Heroes became a defining era, marked by the delicate balance of mortal ambition and divine influence.\r\n\r\n[b]Age of Heroes Campaigns:[/b] @[The Shardlands Saga](plot:91ef1b1e-e86b-4081-9ec8-3105f5ead85e) I @[The Southlands Saga](plot:037d9ab8-9c01-4d19-965d-8012ebb3f0c1) I @[Blood & Sand Saga](plot:141b45ce-c776-497d-a16e-fdfc906504f3)",
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": null,
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\"],\"catCol3\":[\"custom3\"],\"catCol4\":[\"custom4\"],\"catCol5\":[\"custom5\"],\"bin\":[\"maps\",\"timelines\",\"articleBlocks\",\"toc\"]}",
+    "pagecover": null,
+    "bookcover": {
+        "id": 6473428,
+        "title": "History.jpg",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/25c82226-f40e-4866-b883-0b0f87436174/uploads/images/56f8a1c7725211555d5feb719d55d7b0.jpeg",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": null,
+        "updateDate": {
+            "date": "2025-03-17 12:17:55.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "defaultarticlecover": null,
+    "parent": null,
+    "world": {
+        "id": "c1ac2421-363b-49d0-b5a1-fd68f279c9cc",
+        "title": "The Eternal Wheel",
+        "slug": "the-eternal-wheel-aloisihaelgor",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor",
+        "subscribergroups": [
+            {
+                "id": "082b6104-8c62-493f-bbbe-28d4628f4674",
+                "title": "Adventurers of Beast & Blade: An Eternal Wheel Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "98235c93-8525-4f57-82e5-aaca258732fb",
+                "title": "Adventurers of Kingmaker: An Eternal Wheel Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b8922d93-93dd-4a03-ab33-982546bd4162",
+                "title": "Adventurers of Test Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "e150fee5-0680-456b-9b76-24fe9cb7fa69",
+                "title": "Adventurers of The Blood & Sand Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "a071996d-d998-4c28-87ef-b4134629dbf0",
+                "title": "Adventurers of The Southlands Saga: An Age of Heroes Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "3b462173-b487-49e7-a327-92e416fa5546",
+                "title": "Beast & Blade: An Eternal Wheel Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c5af5b45-d93e-4c9b-aac4-47297b0e73be",
+                "title": "Kingmaker: An Eternal Wheel Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "01caf088-43de-48fa-8082-2f5ca7737304",
+                "title": "misskelmc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b094fd09-73c1-46f8-a968-e4a37c9d7a25",
+                "title": "PrinceAloisi",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "22c2e2fa-d1ce-49d9-a418-b603c1f15ab3",
+                "title": "sarahjmcc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "1e57bbd4-9677-49d5-83a6-d759c7818125",
+                "title": "Test Campaign Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "5d812551-a5df-4781-b24d-86003f40fc87",
+                "title": "The Blood & Sand Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "fe234d31-2c14-429c-a174-2a5c86a0465b",
+                "title": "The Southlands Saga: An Age of Heroes Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-04-23 10:04:31.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "8bf43d21-c556-47fc-91dd-eea4d5076ca0",
+            "title": "Eldfell Konungr",
+            "slug": "eldfell-konungr-organization",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/eldfell-konungr-organization",
+            "subscribergroups": [],
+            "folderId": "a3fc283d-3010-4b73-8e49-df12003cc533",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:28:16.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "998b3f44-700d-474b-b47c-114f598159bc",
+            "title": "Luka, the First Lord",
+            "slug": "luka2C-the-first-lord-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/luka2C-the-first-lord-person",
+            "subscribergroups": [],
+            "folderId": "a3fc283d-3010-4b73-8e49-df12003cc533",
+            "tags": "",
+            "updateDate": {
+                "date": "2024-11-05 05:54:18.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "e41b6f08-b19a-4a5c-9718-287ea0febe64",
+            "title": "Scales of Sekhem",
+            "slug": "scales-of-sekhem-organization",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/scales-of-sekhem-organization",
+            "subscribergroups": [],
+            "folderId": "a3fc283d-3010-4b73-8e49-df12003cc533",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:30:58.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "108fbff0-c399-4bb7-9f57-6eb9b8d665e0",
+            "title": "The Old Tongue",
+            "slug": "the-old-tongue-language",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Language",
+            "icon": "fa-solid fa-file",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-old-tongue-language",
+            "subscribergroups": [],
+            "folderId": "a3fc283d-3010-4b73-8e49-df12003cc533",
+            "tags": "Eternals,Old World",
+            "updateDate": {
+                "date": "2024-10-22 13:32:07.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/a3fc283d-3010-4b73-8e49-df12003cc533/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}

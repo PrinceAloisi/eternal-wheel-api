@@ -1,0 +1,688 @@
+{
+    "id": "a0392ae1-970c-466a-94df-fd4ab715a217",
+    "title": "Myths & Deities",
+    "slug": "myths-26-deities-category",
+    "state": "public",
+    "isWip": null,
+    "isDraft": null,
+    "entityClass": "Category",
+    "icon": "fa-solid fa-folder",
+    "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/c/myths-26-deities-category",
+    "subscribergroups": [],
+    "folderId": null,
+    "tags": null,
+    "updateDate": null,
+    "description": null,
+    "excerpt": null,
+    "isBook": false,
+    "displayBookTitle": false,
+    "isCollapsed": false,
+    "position": null,
+    "creationDate": {
+        "date": "2024-10-06 11:06:37.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/London"
+    },
+    "views": 152,
+    "custom1": "The cosmology of Dewan and the wider universe is shaped by a hierarchy of powerful entities, from ancient godlike beings to immortal heroes. Religion is deeply intertwined with the fabric of the world, influencing mortal lives, granting divine power, and shaping the moral and spiritual landscape of Dewan.\r\n\r\nThough the gods interact with the world in different ways, all deities derive their power from mortal belief and their connection to The Weave, the mystical fabric that binds the universe.\r\n\r\nIn The Eternal Wheel, deities and powerful entities are divided into several ranks, each with distinct abilities, realms, and relationships with their followers.\r\n\r\n[h2][center]The Eternals[/center][/h2]\r\n\r\nAt the top of the hierarchy are the Eternals, mysterious and incomprehensible beings. These entities, believed to be champions of the Old World, exist beyond the understanding of mortals.\r\n\r\nThey neither desire worship nor respond to prayers, and they do not grant divine magic. Their consent, however, is required for any entity to ascend to true godhood.\r\n\r\nKnown only to a few scholars, the Eternals reside outside the concerns of mortals, maintaining the balance of the universe and ensuring that the cosmos continues to turn.\r\n\r\n[center][h2]Greater Deities[/h2][/center]\r\n\r\nGreater Deities are the most powerful of the gods. With millions of worshippers, these gods wield immense influence, even commanding respect from other deities.\r\n\r\nThey govern vast realms and often rule over lesser gods, much like sovereigns ruling over kingdoms. Greater Deities can perform miracles and grant divine magic to their followers, shaping the fate of mortals and entire civilizations.\r\n\r\n[center][h2]Lesser Deities[/h2][/center]\r\n\r\nLesser Deities wield significant power but are not as universally influential as Greater Deities. With thousands or hundreds of thousands of worshippers, these deities grant spells to their clerics and champions, and they have keen control over their specific portfolios—domains that include aspects of mortal life such as war, nature, or knowledge.\r\n\r\nLesser Deities often serve in the courts of Greater Deities, but they command their own authority and possess their own realms in The Godshores.\r\n\r\n[center][h2]Paragons[/h2][/center]\r\n\r\nParagons, also known as \"quasi-deities\" or \"hero deities,\" are immortal beings who lack the full powers of a god. They cannot grant spells but are often revered for their divine lineage or extraordinary accomplishments.\r\n\r\nParagons might be the offspring of gods and mortals or legendary heroes who have achieved godlike status through deeds of great valor. Though they lack a divine realm, their influence persists, and they are often the subject of veneration or myth.",
+    "custom2": null,
+    "custom3": null,
+    "custom4": null,
+    "custom5": "[itable:27cd8549-84cf-4553-92eb-92b8d3546d8b]",
+    "cssClasses": null,
+    "systemMeta": "{\"catCol1\":[\"custom1\"],\"catCol2\":[\"custom2\"],\"catCol3\":[\"custom3\"],\"catCol4\":[\"custom4\"],\"catCol5\":[\"custom5\"],\"bin\":[\"articleBlocks\",\"maps\",\"toc\",\"timelines\"]}",
+    "pagecover": null,
+    "bookcover": {
+        "id": 6473417,
+        "title": "Myths ",
+        "slug": null,
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "Image",
+        "icon": "fa-solid fa-image",
+        "url": "https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/25c82226-f40e-4866-b883-0b0f87436174/uploads/images/2ac2d9ab474e6ff085833871ea9807b9.jpeg",
+        "subscribergroups": [],
+        "folderId": "-1",
+        "tags": null,
+        "updateDate": {
+            "date": "2025-03-17 12:16:00.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "defaultarticlecover": null,
+    "parent": null,
+    "world": {
+        "id": "c1ac2421-363b-49d0-b5a1-fd68f279c9cc",
+        "title": "The Eternal Wheel",
+        "slug": "the-eternal-wheel-aloisihaelgor",
+        "state": "public",
+        "isWip": null,
+        "isDraft": null,
+        "entityClass": "World",
+        "icon": "fa-solid fa-globe-stand",
+        "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor",
+        "subscribergroups": [
+            {
+                "id": "082b6104-8c62-493f-bbbe-28d4628f4674",
+                "title": "Adventurers of Beast & Blade: An Eternal Wheel Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "98235c93-8525-4f57-82e5-aaca258732fb",
+                "title": "Adventurers of Kingmaker: An Eternal Wheel Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b8922d93-93dd-4a03-ab33-982546bd4162",
+                "title": "Adventurers of Test Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "e150fee5-0680-456b-9b76-24fe9cb7fa69",
+                "title": "Adventurers of The Blood & Sand Saga Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "a071996d-d998-4c28-87ef-b4134629dbf0",
+                "title": "Adventurers of The Southlands Saga: An Age of Heroes Tale Party",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "3b462173-b487-49e7-a327-92e416fa5546",
+                "title": "Beast & Blade: An Eternal Wheel Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "c5af5b45-d93e-4c9b-aac4-47297b0e73be",
+                "title": "Kingmaker: An Eternal Wheel Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "01caf088-43de-48fa-8082-2f5ca7737304",
+                "title": "misskelmc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "b094fd09-73c1-46f8-a968-e4a37c9d7a25",
+                "title": "PrinceAloisi",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "22c2e2fa-d1ce-49d9-a418-b603c1f15ab3",
+                "title": "sarahjmcc",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "1e57bbd4-9677-49d5-83a6-d759c7818125",
+                "title": "Test Campaign Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "5d812551-a5df-4781-b24d-86003f40fc87",
+                "title": "The Blood & Sand Saga Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            },
+            {
+                "id": "fe234d31-2c14-429c-a174-2a5c86a0465b",
+                "title": "The Southlands Saga: An Age of Heroes Tale Players",
+                "slug": null,
+                "state": null,
+                "entityClass": "SubscriberGroup",
+                "icon": null,
+                "url": null,
+                "subscribergroups": []
+            }
+        ],
+        "folderId": "-1",
+        "tags": "",
+        "updateDate": {
+            "date": "2025-04-23 10:04:31.000000",
+            "timezone_type": 3,
+            "timezone": "Europe/London"
+        }
+    },
+    "articleRedirect": null,
+    "articles": [
+        {
+            "id": "2d111298-6815-47c9-acc6-c6f690b3ee23",
+            "title": "Analor, the Lord of the Sun",
+            "slug": "analor2C-the-lord-of-the-sun-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/analor2C-the-lord-of-the-sun-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:38:33.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "232725de-1e16-4e34-a464-6abd6e152909",
+            "title": "Angharradh, the Triune Goddess",
+            "slug": "angharradh2C-the-triune-goddess-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/angharradh2C-the-triune-goddess-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:38:52.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "66d8a490-ceca-4198-ae5b-266ad151d5b8",
+            "title": "Auril, the Frostmaiden",
+            "slug": "auril2C-the-frostmaiden-person",
+            "state": "public",
+            "isWip": true,
+            "isDraft": true,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/auril2C-the-frostmaiden-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-18 11:44:27.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "b2708f89-ef62-4f56-bfae-8a3e580bf999",
+            "title": "Cyrrollalee, the Hearthkeeper",
+            "slug": "cyrrollalee2C-the-hearthkeeper-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/cyrrollalee2C-the-hearthkeeper-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:39:04.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "249b81aa-5650-473d-89f8-e676d7a53cd4",
+            "title": "Dugmaren, the Errant Explorer",
+            "slug": "dugmaren2C-the-errant-explorer-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/dugmaren2C-the-errant-explorer-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 10:39:30.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "6fae8402-297b-46fe-a2b5-47080d87a032",
+            "title": "Flandal, the Great Steelsmith",
+            "slug": "flandal2C-the-great-steelsmith-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/flandal2C-the-great-steelsmith-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:02:19.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "53e713ad-e13e-4676-817d-07866cada0ff",
+            "title": "Hanali, the Heart of Gold",
+            "slug": "hanali2C-the-heart-of-gold-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/hanali2C-the-heart-of-gold-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": "God,Lesser Deity,Arvandor,Godshores",
+            "updateDate": {
+                "date": "2024-10-22 11:02:32.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "f41b5350-db18-476e-aeae-80fb6037f0f3",
+            "title": "Jergal, the Scribe of the Doomed",
+            "slug": "jergal2C-the-scribe-of-the-doomed-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/jergal2C-the-scribe-of-the-doomed-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:02:45.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "04cce1f8-7391-4177-abfd-27d2b225d0b4",
+            "title": "Kiaransalee, the Revenancer",
+            "slug": "kiaransalee2C-the-revenancer-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/kiaransalee2C-the-revenancer-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:03:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "27502ec1-9058-48ad-baae-85792addabdf",
+            "title": "Labelas, the Lord of the Continuum",
+            "slug": "labelas2C-the-lord-of-the-continuum-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/labelas2C-the-lord-of-the-continuum-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:03:25.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "9d561285-e869-4ab1-a0a2-9e7874d430de",
+            "title": "Luthic, the Cave Mother",
+            "slug": "luthic2C-the-cave-mother-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/luthic2C-the-cave-mother-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-11-05 07:38:10.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "2b6bc018-4f49-4dc5-997b-339570543f47",
+            "title": "Milil, the Lord of Song",
+            "slug": "milil2C-the-lord-of-song-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/milil2C-the-lord-of-song-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:03:51.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "ca7cd424-d3d8-4935-8947-a2eb8eb0ebce",
+            "title": "Mystra, the Lady of Mysteries",
+            "slug": "mystra2C-the-lady-of-mysteries-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/mystra2C-the-lady-of-mysteries-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:04:03.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "5123d4a5-af73-4327-845b-63d1f7abc634",
+            "title": "Rillifane, the Leaflord",
+            "slug": "rillifane2C-the-leaflord-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/rillifane2C-the-leaflord-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": "God,Godshores,Oakfaith,wood elf,Arvandor",
+            "updateDate": {
+                "date": "2024-10-22 11:04:13.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "36960017-dcdd-4c82-bc06-9f6f762bd9f3",
+            "title": "Savras, the All-Seeing",
+            "slug": "savras2C-the-all-seeing-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/savras2C-the-all-seeing-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:05:13.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "ab94d4be-abb0-4d03-92bc-2a4405ba6eee",
+            "title": "Selune, the Moonmaiden",
+            "slug": "selune2C-the-moonmaiden-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/selune2C-the-moonmaiden-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:05:29.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "124b3f7c-bf9d-4f8d-862e-941ff308c3d4",
+            "title": "Sethetism",
+            "slug": "sethetism-organization",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/sethetism-organization",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": "",
+            "updateDate": {
+                "date": "2025-03-12 04:51:15.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "43e929d9-439e-4eef-8ac9-0db16b7af297",
+            "title": "Shardinlar, the Shining Dancer",
+            "slug": "shardinlar2C-the-shining-dancer-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/shardinlar2C-the-shining-dancer-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:05:42.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "cf6682fa-ee09-4634-9000-e2b4bf278278",
+            "title": "Shaundakul, the Helping Hand",
+            "slug": "shaundakul2C-the-helping-hand-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/shaundakul2C-the-helping-hand-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:05:54.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "6ea12544-1547-4496-b457-ee8d4e2e614a",
+            "title": "Talona, the Lady of Poison",
+            "slug": "talona2C-the-lady-of-poison-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/talona2C-the-lady-of-poison-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:06:07.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "61533bc8-58c8-4e28-b308-f77b1b49d7e6",
+            "title": "Tempus, the Lord of Battles",
+            "slug": "tempus2C-the-lord-of-battles-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/tempus2C-the-lord-of-battles-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": "War Domain,Greater Deity,God,Tempuranism,Warrior's Rest,Godshores",
+            "updateDate": {
+                "date": "2024-10-22 11:06:22.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "37f1d8dc-f570-487c-8d59-3f2dcc107e84",
+            "title": "The Scorching Path",
+            "slug": "the-scorching-path-organization",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Organization",
+            "icon": "fa-solid fa-shield-quartered",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/the-scorching-path-organization",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": "",
+            "updateDate": {
+                "date": "2024-11-07 00:43:46.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "3e2301e7-e5eb-479d-b43a-2f399395193c",
+            "title": "Umberlee, the Queen of the Depths",
+            "slug": "umberlee2C-the-queen-of-the-depths-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/umberlee2C-the-queen-of-the-depths-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:06:57.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "48cc5d61-36df-470e-b9f0-5755180db72f",
+            "title": "Valkur, the Captain of the Waves",
+            "slug": "valkur2C-the-captain-of-the-waves-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/valkur2C-the-captain-of-the-waves-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:07:06.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        },
+        {
+            "id": "0b457f28-9132-419b-bec6-2195eb1783d7",
+            "title": "Vergadain, the Merchant King",
+            "slug": "vergadain2C-the-merchant-king-person",
+            "state": "public",
+            "isWip": false,
+            "isDraft": false,
+            "entityClass": "Person",
+            "icon": "fa-solid fa-user-crown",
+            "url": "https://www.worldanvil.com/w/the-eternal-wheel-aloisihaelgor/a/vergadain2C-the-merchant-king-person",
+            "subscribergroups": [],
+            "folderId": "a0392ae1-970c-466a-94df-fd4ab715a217",
+            "tags": null,
+            "updateDate": {
+                "date": "2024-10-22 11:07:14.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            }
+        }
+    ],
+    "editURL": "https://www.worldanvil.com/world/category/a0392ae1-970c-466a-94df-fd4ab715a217/edit",
+    "parsedDescription": "",
+    "isEditable": true,
+    "success": true
+}
